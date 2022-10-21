@@ -2,474 +2,614 @@
   {
     "name": "Background",
     "visible": true,
-    "order": 0,
-    "attributes": {
-      "Bells": {
-        "id": 1,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Bells#10/0.png",
-          "/layers/0-Background/Bells#10/1.png",
-          "/layers/0-Background/Bells#10/2.png"
-        ],
-        "weight": 10
-      },
-      "Cash": {
-        "id": 2,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Cash#5/0.png",
-          "/layers/0-Background/Cash#5/1.png",
-          "/layers/0-Background/Cash#5/2.png"
-        ],
-        "weight": 5,
-        "no": [ 11, 111, 128, 129 ]
-      },
-      "Cyan": {
-        "id": 3,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Cyan#20/0.png",
-          "/layers/0-Background/Cyan#20/1.png",
-          "/layers/0-Background/Cyan#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Diamonds": {
-        "id": 4,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Diamonds#5/0.png",
-          "/layers/0-Background/Diamonds#5/1.png",
-          "/layers/0-Background/Diamonds#5/2.png"
-        ],
-        "weight": 5
-      },
-      "Gray": {
-        "id": 5,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Gray#20/0.png",
-          "/layers/0-Background/Gray#20/1.png",
-          "/layers/0-Background/Gray#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Green": {
-        "id": 6,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Green#20/0.png",
-          "/layers/0-Background/Green#20/1.png",
-          "/layers/0-Background/Green#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Indigo": {
-        "id": 7,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Indigo#20/0.png",
-          "/layers/0-Background/Indigo#20/1.png",
-          "/layers/0-Background/Indigo#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Money": {
-        "id": 8,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Money#5/0.png",
-          "/layers/0-Background/Money#5/1.png",
-          "/layers/0-Background/Money#5/2.png"
-        ],
-        "weight": 5,
-        "no": [ 11, 111, 128, 129 ]
-      },
-      "Orange": {
-        "id": 9,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Orange#20/0.png",
-          "/layers/0-Background/Orange#20/1.png",
-          "/layers/0-Background/Orange#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Peach": {
-        "id": 10,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Peach#20/0.png",
-          "/layers/0-Background/Peach#20/1.png",
-          "/layers/0-Background/Peach#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Violet": {
-        "id": 11,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Violet#20/0.png",
-          "/layers/0-Background/Violet#20/1.png",
-          "/layers/0-Background/Violet#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Yellow": {
-        "id": 12,
-        "visible": true,
-        "paths": [
-          "/layers/0-Background/Yellow#20/0.png",
-          "/layers/0-Background/Yellow#20/1.png",
-          "/layers/0-Background/Yellow#20/2.png"
-        ],
-        "weight": 20
-      }
-    }
-  },
-  {
-    "name": "Hide",
-    "visible": true,
     "order": 1,
     "attributes": {
-      "Alien": {
-        "id": 13,
-        "visible": true,
-        "paths": [
-          "/layers/1-Hide/Alien#5/0.png",
-          "/layers/1-Hide/Alien#5/1.png",
-          "/layers/1-Hide/Alien#5/2.png"
-        ],
-        "weight": 5
-      },
-      "Black White 1": {
-        "id": 14,
-        "visible": true,
-        "paths": [
-          "/layers/1-Hide/Black White 1#20/0.png",
-          "/layers/1-Hide/Black White 1#20/1.png",
-          "/layers/1-Hide/Black White 1#20/2.png"
-        ],
-        "weight": 20,
-        "no": [ 63, 65, 76, 82 ]
-      },
-      "Black White 2": {
-        "id": 15,
-        "visible": true,
-        "paths": [
-          "/layers/1-Hide/Black White 2#20/0.png",
-          "/layers/1-Hide/Black White 2#20/1.png",
-          "/layers/1-Hide/Black White 2#20/2.png"
-        ],
-        "weight": 20,
-        "no": [ 63, 65, 76, 82 ]
-      },
-      "Black White 3": {
+      "Apple-Green": {
         "id": 16,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Black White 3#20/0.png",
-          "/layers/1-Hide/Black White 3#20/1.png",
-          "/layers/1-Hide/Black White 3#20/2.png"
+          "/layers/1-Background/Apple-Green/0.png",
+          "/layers/1-Background/Apple-Green/1.png",
+          "/layers/1-Background/Apple-Green/2.png"
         ],
-        "weight": 20,
-        "no": [ 63, 65, 76, 82 ]
+        "weight": 100
       },
-      "Black White 4": {
+      "Aquamarine": {
         "id": 17,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Black White 4#20/0.png",
-          "/layers/1-Hide/Black White 4#20/1.png",
-          "/layers/1-Hide/Black White 4#20/2.png"
+          "/layers/1-Background/Aquamarine/0.png",
+          "/layers/1-Background/Aquamarine/1.png",
+          "/layers/1-Background/Aquamarine/2.png"
         ],
-        "weight": 20,
-        "no": [ 63, 65, 76, 82 ]
+        "weight": 100
       },
-      "Black White 5": {
+      "Arctic": {
         "id": 18,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Black White 5#20/0.png",
-          "/layers/1-Hide/Black White 5#20/1.png",
-          "/layers/1-Hide/Black White 5#20/2.png"
+          "/layers/1-Background/Arctic/0.png",
+          "/layers/1-Background/Arctic/1.png",
+          "/layers/1-Background/Arctic/2.png"
         ],
-        "weight": 20,
-        "no": [ 63, 65, 76, 82 ]
+        "weight": 100
       },
-      "Black": {
+      "Blue": {
         "id": 19,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Black#20/0.png",
-          "/layers/1-Hide/Black#20/1.png",
-          "/layers/1-Hide/Black#20/2.png"
+          "/layers/1-Background/Blue/0.png",
+          "/layers/1-Background/Blue/1.png",
+          "/layers/1-Background/Blue/2.png"
         ],
-        "weight": 20,
-        "no": [ 63, 65, 76 ]
+        "weight": 100
       },
       "Brown": {
         "id": 20,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Brown#20/0.png",
-          "/layers/1-Hide/Brown#20/1.png",
-          "/layers/1-Hide/Brown#20/2.png"
+          "/layers/1-Background/Brown/0.png",
+          "/layers/1-Background/Brown/1.png",
+          "/layers/1-Background/Brown/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Coffee Brown 1": {
+      "Candy-Drip": {
         "id": 21,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Coffee Brown 1#10/0.png",
-          "/layers/1-Hide/Coffee Brown 1#10/1.png",
-          "/layers/1-Hide/Coffee Brown 1#10/2.png"
+          "/layers/1-Background/Candy-Drip/0.png",
+          "/layers/1-Background/Candy-Drip/1.png",
+          "/layers/1-Background/Candy-Drip/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Coffee Brown 2": {
+      "Celeste": {
         "id": 22,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Coffee Brown 2#10/0.png",
-          "/layers/1-Hide/Coffee Brown 2#10/1.png",
-          "/layers/1-Hide/Coffee Brown 2#10/2.png"
+          "/layers/1-Background/Celeste/0.png",
+          "/layers/1-Background/Celeste/1.png",
+          "/layers/1-Background/Celeste/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Cyborg": {
+      "Cerulean": {
         "id": 23,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Cyborg#5/0.png",
-          "/layers/1-Hide/Cyborg#5/1.png",
-          "/layers/1-Hide/Cyborg#5/2.png"
+          "/layers/1-Background/Cerulean/0.png",
+          "/layers/1-Background/Cerulean/1.png",
+          "/layers/1-Background/Cerulean/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Dark Brown": {
+      "Cyber-City": {
         "id": 24,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Dark Brown#20/0.png",
-          "/layers/1-Hide/Dark Brown#20/1.png",
-          "/layers/1-Hide/Dark Brown#20/2.png"
+          "/layers/1-Background/Cyber-City/0.png",
+          "/layers/1-Background/Cyber-City/1.png",
+          "/layers/1-Background/Cyber-City/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Golden Spotted": {
+      "Cyborg-Ringlight": {
         "id": 25,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Golden Spotted#5/0.png",
-          "/layers/1-Hide/Golden Spotted#5/1.png",
-          "/layers/1-Hide/Golden Spotted#5/2.png"
+          "/layers/1-Background/Cyborg-Ringlight/0.png",
+          "/layers/1-Background/Cyborg-Ringlight/1.png",
+          "/layers/1-Background/Cyborg-Ringlight/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Green Spotted": {
+      "Dark-Clouds": {
         "id": 26,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Green Spotted#5/0.png",
-          "/layers/1-Hide/Green Spotted#5/1.png",
-          "/layers/1-Hide/Green Spotted#5/2.png"
+          "/layers/1-Background/Dark-Clouds/0.png",
+          "/layers/1-Background/Dark-Clouds/1.png",
+          "/layers/1-Background/Dark-Clouds/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Orange Spotted": {
+      "Dirt-Brown": {
         "id": 27,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Orange Spotted#5/0.png",
-          "/layers/1-Hide/Orange Spotted#5/1.png",
-          "/layers/1-Hide/Orange Spotted#5/2.png"
+          "/layers/1-Background/Dirt-Brown/0.png",
+          "/layers/1-Background/Dirt-Brown/1.png",
+          "/layers/1-Background/Dirt-Brown/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Pink Spotted": {
+      "Forest": {
         "id": 28,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Pink Spotted#5/0.png",
-          "/layers/1-Hide/Pink Spotted#5/1.png",
-          "/layers/1-Hide/Pink Spotted#5/2.png"
+          "/layers/1-Background/Forest/0.png",
+          "/layers/1-Background/Forest/1.png",
+          "/layers/1-Background/Forest/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Purple Spotted": {
+      "Glitch": {
         "id": 29,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Purple Spotted#5/0.png",
-          "/layers/1-Hide/Purple Spotted#5/1.png",
-          "/layers/1-Hide/Purple Spotted#5/2.png"
+          "/layers/1-Background/Glitch/0.png",
+          "/layers/1-Background/Glitch/1.png",
+          "/layers/1-Background/Glitch/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "White Brown 1": {
+      "Gold": {
+        "id": 30,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Gold/0.png",
+          "/layers/1-Background/Gold/1.png",
+          "/layers/1-Background/Gold/2.png"
+        ],
+        "weight": 100
+      },
+      "Gray": {
         "id": 31,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Brown 2#20/0.png",
-          "/layers/1-Hide/White Brown 2#20/1.png",
-          "/layers/1-Hide/White Brown 2#20/2.png"
+          "/layers/1-Background/Gray/0.png",
+          "/layers/1-Background/Gray/1.png",
+          "/layers/1-Background/Gray/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Brown 2": {
+      "Green": {
         "id": 32,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Brown 3#20/0.png",
-          "/layers/1-Hide/White Brown 3#20/1.png",
-          "/layers/1-Hide/White Brown 3#20/2.png"
+          "/layers/1-Background/Green/0.png",
+          "/layers/1-Background/Green/1.png",
+          "/layers/1-Background/Green/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Brown 3": {
+      "Hologram": {
+        "id": 33,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Hologram/0.png",
+          "/layers/1-Background/Hologram/1.png",
+          "/layers/1-Background/Hologram/2.png"
+        ],
+        "weight": 100
+      },
+      "Hottest-Planet": {
         "id": 34,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Brown 5#20/0.png",
-          "/layers/1-Hide/White Brown 5#20/1.png",
-          "/layers/1-Hide/White Brown 5#20/2.png"
+          "/layers/1-Background/Hottest-Planet/0.png",
+          "/layers/1-Background/Hottest-Planet/1.png",
+          "/layers/1-Background/Hottest-Planet/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Dark Brown 1": {
+      "Hydrangea": {
         "id": 35,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Dark Brown 1#20/0.png",
-          "/layers/1-Hide/White Dark Brown 1#20/1.png",
-          "/layers/1-Hide/White Dark Brown 1#20/2.png"
+          "/layers/1-Background/Hydrangea/0.png",
+          "/layers/1-Background/Hydrangea/1.png",
+          "/layers/1-Background/Hydrangea/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Dark Brown 2": {
+      "Ice": {
         "id": 36,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Dark Brown 2#20/0.png",
-          "/layers/1-Hide/White Dark Brown 2#20/1.png",
-          "/layers/1-Hide/White Dark Brown 2#20/2.png"
+          "/layers/1-Background/Ice/0.png",
+          "/layers/1-Background/Ice/1.png",
+          "/layers/1-Background/Ice/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Dark Brown 3": {
+      "Lime": {
         "id": 37,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Dark Brown 3#20/0.png",
-          "/layers/1-Hide/White Dark Brown 3#20/1.png",
-          "/layers/1-Hide/White Dark Brown 3#20/2.png"
+          "/layers/1-Background/Lime/0.png",
+          "/layers/1-Background/Lime/1.png",
+          "/layers/1-Background/Lime/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Dark Brown 4": {
+      "Mint": {
+        "id": 38,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Mint/0.png",
+          "/layers/1-Background/Mint/1.png",
+          "/layers/1-Background/Mint/2.png"
+        ],
+        "weight": 100
+      },
+      "Night-City": {
         "id": 39,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White Dark Brown 5#20/0.png",
-          "/layers/1-Hide/White Dark Brown 5#20/1.png",
-          "/layers/1-Hide/White Dark Brown 5#20/2.png"
+          "/layers/1-Background/Night-City/0.png",
+          "/layers/1-Background/Night-City/1.png",
+          "/layers/1-Background/Night-City/2.png"
         ],
-        "weight": 20,
-        "no": [ 82 ]
+        "weight": 100
       },
-      "White": {
+      "Pink": {
         "id": 40,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/White#20/0.png",
-          "/layers/1-Hide/White#20/1.png",
-          "/layers/1-Hide/White#20/2.png"
+          "/layers/1-Background/Pink/0.png",
+          "/layers/1-Background/Pink/1.png",
+          "/layers/1-Background/Pink/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Zombie": {
+      "Plains": {
         "id": 41,
         "visible": true,
         "paths": [
-          "/layers/1-Hide/Zombie#5/0.png",
-          "/layers/1-Hide/Zombie#5/1.png",
-          "/layers/1-Hide/Zombie#5/2.png"
+          "/layers/1-Background/Plains/0.png",
+          "/layers/1-Background/Plains/1.png",
+          "/layers/1-Background/Plains/2.png"
         ],
-        "weight": 5
+        "weight": 100
+      },
+      "Purple": {
+        "id": 42,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Purple/0.png",
+          "/layers/1-Background/Purple/1.png",
+          "/layers/1-Background/Purple/2.png"
+        ],
+        "weight": 100
+      },
+      "Red": {
+        "id": 43,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Red/0.png",
+          "/layers/1-Background/Red/1.png",
+          "/layers/1-Background/Red/2.png"
+        ],
+        "weight": 100
+      },
+      "Retro-Cyberpunk": {
+        "id": 44,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Retro-Cyberpunk/0.png",
+          "/layers/1-Background/Retro-Cyberpunk/1.png",
+          "/layers/1-Background/Retro-Cyberpunk/2.png"
+        ],
+        "weight": 100
+      },
+      "Sand": {
+        "id": 45,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Sand/0.png",
+          "/layers/1-Background/Sand/1.png",
+          "/layers/1-Background/Sand/2.png"
+        ],
+        "weight": 100
+      },
+      "Spanish-Yellow": {
+        "id": 46,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Spanish-Yellow/0.png",
+          "/layers/1-Background/Spanish-Yellow/1.png",
+          "/layers/1-Background/Spanish-Yellow/2.png"
+        ],
+        "weight": 100
+      },
+      "Stars": {
+        "id": 47,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Stars/0.png",
+          "/layers/1-Background/Stars/1.png",
+          "/layers/1-Background/Stars/2.png"
+        ],
+        "weight": 100
+      },
+      "Strawberry-Pink": {
+        "id": 48,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Strawberry-Pink/0.png",
+          "/layers/1-Background/Strawberry-Pink/1.png",
+          "/layers/1-Background/Strawberry-Pink/2.png"
+        ],
+        "weight": 100
+      },
+      "Sunset": {
+        "id": 49,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Sunset/0.png",
+          "/layers/1-Background/Sunset/1.png",
+          "/layers/1-Background/Sunset/2.png"
+        ],
+        "weight": 100
+      },
+      "Tangerine": {
+        "id": 50,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Tangerine/0.png",
+          "/layers/1-Background/Tangerine/1.png",
+          "/layers/1-Background/Tangerine/2.png"
+        ],
+        "weight": 100
+      },
+      "Terracotta": {
+        "id": 51,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Terracotta/0.png",
+          "/layers/1-Background/Terracotta/1.png",
+          "/layers/1-Background/Terracotta/2.png"
+        ],
+        "weight": 100
+      },
+      "Thistle": {
+        "id": 52,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Thistle/0.png",
+          "/layers/1-Background/Thistle/1.png",
+          "/layers/1-Background/Thistle/2.png"
+        ],
+        "weight": 100
+      },
+      "Topax": {
+        "id": 53,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Topax/0.png",
+          "/layers/1-Background/Topax/1.png",
+          "/layers/1-Background/Topax/2.png"
+        ],
+        "weight": 100
+      },
+      "Turquoise": {
+        "id": 54,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Turquoise/0.png",
+          "/layers/1-Background/Turquoise/1.png",
+          "/layers/1-Background/Turquoise/2.png"
+        ],
+        "weight": 100
+      },
+      "Void-Galaxy": {
+        "id": 55,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Void-Galaxy/0.png",
+          "/layers/1-Background/Void-Galaxy/1.png",
+          "/layers/1-Background/Void-Galaxy/2.png"
+        ],
+        "weight": 100
+      },
+      "Wrecked-Planet": {
+        "id": 56,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Wrecked-Planet/0.png",
+          "/layers/1-Background/Wrecked-Planet/1.png",
+          "/layers/1-Background/Wrecked-Planet/2.png"
+        ],
+        "weight": 100
+      },
+      "Yellow": {
+        "id": 57,
+        "visible": true,
+        "paths": [
+          "/layers/1-Background/Yellow/0.png",
+          "/layers/1-Background/Yellow/1.png",
+          "/layers/1-Background/Yellow/2.png"
+        ],
+        "weight": 100
       }
     }
   },
   {
-    "name": "Mask",
+    "name": "Body",
     "visible": true,
     "order": 2,
     "attributes": {
-      "Black Red": {
-        "id": 55,
-        "visible": true,
-        "paths": [
-          "/layers/2-Mask/Black Red#5/0.png",
-          "/layers/2-Mask/Black Red#5/1.png",
-          "/layers/2-Mask/Black Red#5/2.png"
-        ],
-        "weight": 5
-      },
-      "Cow": {
-        "id": 56,
-        "visible": true,
-        "paths": [
-          "/layers/2-Mask/Cow#5/0.png",
-          "/layers/2-Mask/Cow#5/1.png",
-          "/layers/2-Mask/Cow#5/2.png"
-        ],
-        "weight": 5,
-        "no": [ 
-          110, 111, 113, 114, 115, 116, 
-          118, 119, 120, 122, 124, 125,
-          126, 128, 129, 130, 135, 136,
-          137, 140, 141, 142, 144, 145,
-          147
-        ]
-      },
-      "Money": {
-        "id": 57,
-        "visible": true,
-        "paths": [
-          "/layers/2-Mask/Money#5/0.png",
-          "/layers/2-Mask/Money#5/1.png",
-          "/layers/2-Mask/Money#5/2.png"
-        ],
-        "weight": 5,
-        "no": [ 
-          110, 111, 113, 114, 115, 116, 
-          118, 119, 120, 122, 124, 125,
-          126, 128, 129, 130, 135, 136,
-          137, 140, 141, 142, 144, 145,
-          147
-        ]
-      },
-      "None": {
+      "Blue": {
         "id": 58,
         "visible": true,
         "paths": [
-          "/layers/2-Mask/None#30/0.png",
-          "/layers/2-Mask/None#30/1.png",
-          "/layers/2-Mask/None#30/2.png"
+          "/layers/2-Body/Blue/0.png",
+          "/layers/2-Body/Blue/1.png",
+          "/layers/2-Body/Blue/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Robber": {
+      "Brown": {
         "id": 59,
         "visible": true,
         "paths": [
-          "/layers/2-Mask/Robber#5/0.png",
-          "/layers/2-Mask/Robber#5/1.png",
-          "/layers/2-Mask/Robber#5/2.png"
+          "/layers/2-Body/Brown/0.png",
+          "/layers/2-Body/Brown/1.png",
+          "/layers/2-Body/Brown/2.png"
         ],
-        "weight": 5
+        "weight": 100
+      },
+      "Cyborg": {
+        "id": 60,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Cyborg/0.png",
+          "/layers/2-Body/Cyborg/1.png",
+          "/layers/2-Body/Cyborg/2.png"
+        ],
+        "weight": 100
+      },
+      "Dark": {
+        "id": 61,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Dark/0.png",
+          "/layers/2-Body/Dark/1.png",
+          "/layers/2-Body/Dark/2.png"
+        ],
+        "weight": 100
+      },
+      "Dark-Blue": {
+        "id": 62,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Dark-Blue/0.png",
+          "/layers/2-Body/Dark-Blue/1.png",
+          "/layers/2-Body/Dark-Blue/2.png"
+        ],
+        "weight": 100
+      },
+      "Gold": {
+        "id": 63,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Gold/0.png",
+          "/layers/2-Body/Gold/1.png",
+          "/layers/2-Body/Gold/2.png"
+        ],
+        "weight": 100
+      },
+      "Green": {
+        "id": 64,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Green/0.png",
+          "/layers/2-Body/Green/1.png",
+          "/layers/2-Body/Green/2.png"
+        ],
+        "weight": 100
+      },
+      "Ice": {
+        "id": 65,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Ice/0.png",
+          "/layers/2-Body/Ice/1.png",
+          "/layers/2-Body/Ice/2.png"
+        ],
+        "weight": 100
+      },
+      "Invisible": {
+        "id": 66,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Invisible/0.png",
+          "/layers/2-Body/Invisible/1.png",
+          "/layers/2-Body/Invisible/2.png"
+        ],
+        "weight": 100
+      },
+      "Mech": {
+        "id": 67,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Mech/0.png",
+          "/layers/2-Body/Mech/1.png",
+          "/layers/2-Body/Mech/2.png"
+        ],
+        "weight": 100
+      },
+      "Orange": {
+        "id": 68,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Orange/0.png",
+          "/layers/2-Body/Orange/1.png",
+          "/layers/2-Body/Orange/2.png"
+        ],
+        "weight": 100
+      },
+      "Origin": {
+        "id": 69,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Origin/0.png",
+          "/layers/2-Body/Origin/1.png",
+          "/layers/2-Body/Origin/2.png"
+        ],
+        "weight": 100
+      },
+      "Pink": {
+        "id": 70,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Pink/0.png",
+          "/layers/2-Body/Pink/1.png",
+          "/layers/2-Body/Pink/2.png"
+        ],
+        "weight": 100
+      },
+      "Red": {
+        "id": 71,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Red/0.png",
+          "/layers/2-Body/Red/1.png",
+          "/layers/2-Body/Red/2.png"
+        ],
+        "weight": 100
+      },
+      "Silver": {
+        "id": 72,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Silver/0.png",
+          "/layers/2-Body/Silver/1.png",
+          "/layers/2-Body/Silver/2.png"
+        ],
+        "weight": 100
+      },
+      "Void": {
+        "id": 73,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Void/0.png",
+          "/layers/2-Body/Void/1.png",
+          "/layers/2-Body/Void/2.png"
+        ],
+        "weight": 100
+      },
+      "White": {
+        "id": 74,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/White/0.png",
+          "/layers/2-Body/White/1.png",
+          "/layers/2-Body/White/2.png"
+        ],
+        "weight": 100
+      },
+      "Yellow": {
+        "id": 75,
+        "visible": true,
+        "paths": [
+          "/layers/2-Body/Yellow/0.png",
+          "/layers/2-Body/Yellow/1.png",
+          "/layers/2-Body/Yellow/2.png"
+        ],
+        "weight": 100
       }
     }
   },
@@ -478,1437 +618,2023 @@
     "visible": true,
     "order": 3,
     "attributes": {
-      "3D Glasses": {
-        "id": 60,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/3D Glasses#20/0.png",
-          "/layers/3-Eyes/3D Glasses#20/1.png",
-          "/layers/3-Eyes/3D Glasses#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Angry": {
-        "id": 61,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Angry#20/0.png",
-          "/layers/3-Eyes/Angry#20/1.png",
-          "/layers/3-Eyes/Angry#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Black Eye": {
-        "id": 62,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Black Eye#20/0.png",
-          "/layers/3-Eyes/Black Eye#20/1.png",
-          "/layers/3-Eyes/Black Eye#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Circle Glasses": {
-        "id": 63,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Circle Glasses#20/0.png",
-          "/layers/3-Eyes/Circle Glasses#20/1.png",
-          "/layers/3-Eyes/Circle Glasses#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Crying": {
-        "id": 64,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Crying#20/0.png",
-          "/layers/3-Eyes/Crying#20/1.png",
-          "/layers/3-Eyes/Crying#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Eye Patch": {
-        "id": 65,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Eye Patch#20/0.png",
-          "/layers/3-Eyes/Eye Patch#20/1.png",
-          "/layers/3-Eyes/Eye Patch#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Heart Glasses": {
-        "id": 66,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Heart Glasses#20/0.png",
-          "/layers/3-Eyes/Heart Glasses#20/1.png",
-          "/layers/3-Eyes/Heart Glasses#20/2.png"
-        ],
-        "weight": 20
-      },
-      "High Eyes": {
-        "id": 67,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/High Eyes#10/0.png",
-          "/layers/3-Eyes/High Eyes#10/1.png",
-          "/layers/3-Eyes/High Eyes#10/2.png"
-        ],
-        "weight": 10
-      },
-      "Hightech Glasses": {
-        "id": 68,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Hightech Glasses#10/0.png",
-          "/layers/3-Eyes/Hightech Glasses#10/1.png",
-          "/layers/3-Eyes/Hightech Glasses#10/2.png"
-        ],
-        "weight": 10
-      },
-      "Hypnotize": {
-        "id": 69,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Hypnotize#20/0.png",
-          "/layers/3-Eyes/Hypnotize#20/1.png",
-          "/layers/3-Eyes/Hypnotize#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Monocle": {
-        "id": 70,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Monocle#10/0.png",
-          "/layers/3-Eyes/Monocle#10/1.png",
-          "/layers/3-Eyes/Monocle#10/2.png"
-        ],
-        "weight": 10
-      },
-      "Nerd Glasses": {
-        "id": 71,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Nerd Glasses#20/0.png",
-          "/layers/3-Eyes/Nerd Glasses#20/1.png",
-          "/layers/3-Eyes/Nerd Glasses#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Oh Yeah": {
-        "id": 72,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Oh Yeah#20/0.png",
-          "/layers/3-Eyes/Oh Yeah#20/1.png",
-          "/layers/3-Eyes/Oh Yeah#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Party Glasses": {
-        "id": 73,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Party Glasses#20/0.png",
-          "/layers/3-Eyes/Party Glasses#20/1.png",
-          "/layers/3-Eyes/Party Glasses#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Scientist Goggles": {
-        "id": 74,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Scientist Goggles#20/0.png",
-          "/layers/3-Eyes/Scientist Goggles#20/1.png",
-          "/layers/3-Eyes/Scientist Goggles#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Stare": {
-        "id": 75,
-        "visible": true,
-        "paths": [
-          "/layers/3-Eyes/Stare#20/0.png",
-          "/layers/3-Eyes/Stare#20/1.png",
-          "/layers/3-Eyes/Stare#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Sunglasses": {
+      "Blank-Eyes": {
         "id": 76,
         "visible": true,
         "paths": [
-          "/layers/3-Eyes/Sunglasses#20/0.png",
-          "/layers/3-Eyes/Sunglasses#20/1.png",
-          "/layers/3-Eyes/Sunglasses#20/2.png"
+          "/layers/3-Eyes/Blank-Eyes/0.png",
+          "/layers/3-Eyes/Blank-Eyes/1.png",
+          "/layers/3-Eyes/Blank-Eyes/2.png"
         ],
-        "weight": 20
-      }
-    }
-  },
-  {
-    "name": "Mouth",
-    "visible": true,
-    "order": 4,
-    "attributes": {
-      "Big Teeth": {
+        "weight": 100
+      },
+      "Blue-Eyes": {
         "id": 77,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Big Teeth#20/0.png",
-          "/layers/4-Mouth/Big Teeth#20/1.png",
-          "/layers/4-Mouth/Big Teeth#20/2.png"
+          "/layers/3-Eyes/Blue-Eyes/0.png",
+          "/layers/3-Eyes/Blue-Eyes/1.png",
+          "/layers/3-Eyes/Blue-Eyes/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Blue Mouthpiece": {
+      "Brown-Eyes": {
         "id": 78,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Blue Mouthpiece#10/0.png",
-          "/layers/4-Mouth/Blue Mouthpiece#10/1.png",
-          "/layers/4-Mouth/Blue Mouthpiece#10/2.png"
+          "/layers/3-Eyes/Brown-Eyes/0.png",
+          "/layers/3-Eyes/Brown-Eyes/1.png",
+          "/layers/3-Eyes/Brown-Eyes/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Cigar": {
+      "Cyborg-Eyes": {
         "id": 79,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Cigar#5/0.png",
-          "/layers/4-Mouth/Cigar#5/1.png",
-          "/layers/4-Mouth/Cigar#5/2.png"
+          "/layers/3-Eyes/Cyborg-Eyes/0.png",
+          "/layers/3-Eyes/Cyborg-Eyes/1.png",
+          "/layers/3-Eyes/Cyborg-Eyes/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Gold Teeth": {
+      "Dark-Eyes": {
         "id": 80,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Gold Teeth#5/0.png",
-          "/layers/4-Mouth/Gold Teeth#5/1.png",
-          "/layers/4-Mouth/Gold Teeth#5/2.png"
+          "/layers/3-Eyes/Dark-Eyes/0.png",
+          "/layers/3-Eyes/Dark-Eyes/1.png",
+          "/layers/3-Eyes/Dark-Eyes/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Mad": {
+      "Green-Eyes": {
         "id": 81,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Mad#20/0.png",
-          "/layers/4-Mouth/Mad#20/1.png",
-          "/layers/4-Mouth/Mad#20/2.png"
+          "/layers/3-Eyes/Green-Eyes/0.png",
+          "/layers/3-Eyes/Green-Eyes/1.png",
+          "/layers/3-Eyes/Green-Eyes/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Mary Jane": {
+      "Heterochromia-Eyes": {
         "id": 82,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Mary Jane#20/0.png",
-          "/layers/4-Mouth/Mary Jane#20/1.png",
-          "/layers/4-Mouth/Mary Jane#20/2.png"
+          "/layers/3-Eyes/Heterochromia-Eyes/0.png",
+          "/layers/3-Eyes/Heterochromia-Eyes/1.png",
+          "/layers/3-Eyes/Heterochromia-Eyes/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Money": {
+      "Mech-Laser-Eyes": {
         "id": 83,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Money#5/0.png",
-          "/layers/4-Mouth/Money#5/1.png",
-          "/layers/4-Mouth/Money#5/2.png"
+          "/layers/3-Eyes/Mech-Laser-Eyes/0.png",
+          "/layers/3-Eyes/Mech-Laser-Eyes/1.png",
+          "/layers/3-Eyes/Mech-Laser-Eyes/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Mustache": {
+      "Orange-Eyes": {
         "id": 84,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Mustache#20/0.png",
-          "/layers/4-Mouth/Mustache#20/1.png",
-          "/layers/4-Mouth/Mustache#20/2.png"
+          "/layers/3-Eyes/Orange-Eyes/0.png",
+          "/layers/3-Eyes/Orange-Eyes/1.png",
+          "/layers/3-Eyes/Orange-Eyes/2.png"
         ],
-        "weight": 20,
-        "no": [ 146 ]
+        "weight": 100
       },
-      "Red Mouthpiece": {
+      "Pink-Eyes": {
         "id": 85,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Red Mouthpiece#10/0.png",
-          "/layers/4-Mouth/Red Mouthpiece#10/1.png",
-          "/layers/4-Mouth/Red Mouthpiece#10/2.png"
+          "/layers/3-Eyes/Pink-Eyes/0.png",
+          "/layers/3-Eyes/Pink-Eyes/1.png",
+          "/layers/3-Eyes/Pink-Eyes/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Serious": {
+      "Purple-Eyes": {
         "id": 86,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Serious#20/0.png",
-          "/layers/4-Mouth/Serious#20/1.png",
-          "/layers/4-Mouth/Serious#20/2.png"
+          "/layers/3-Eyes/Purple-Eyes/0.png",
+          "/layers/3-Eyes/Purple-Eyes/1.png",
+          "/layers/3-Eyes/Purple-Eyes/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Silver Teeth": {
+      "Red-Eyes": {
         "id": 87,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Silver Teeth#5/0.png",
-          "/layers/4-Mouth/Silver Teeth#5/1.png",
-          "/layers/4-Mouth/Silver Teeth#5/2.png"
+          "/layers/3-Eyes/Red-Eyes/0.png",
+          "/layers/3-Eyes/Red-Eyes/1.png",
+          "/layers/3-Eyes/Red-Eyes/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Smile": {
+      "White-Eyes": {
         "id": 88,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Smile#20/0.png",
-          "/layers/4-Mouth/Smile#20/1.png",
-          "/layers/4-Mouth/Smile#20/2.png"
+          "/layers/3-Eyes/White-Eyes/0.png",
+          "/layers/3-Eyes/White-Eyes/1.png",
+          "/layers/3-Eyes/White-Eyes/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Suave": {
+      "Yellow-Eyes": {
         "id": 89,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Suave#10/0.png",
-          "/layers/4-Mouth/Suave#10/1.png",
-          "/layers/4-Mouth/Suave#10/2.png"
+          "/layers/3-Eyes/Yellow-Eyes/0.png",
+          "/layers/3-Eyes/Yellow-Eyes/1.png",
+          "/layers/3-Eyes/Yellow-Eyes/2.png"
         ],
-        "weight": 10,
-        "no": [ 146 ]
-      },
-      "Tongue Out": {
+        "weight": 100
+      }
+    }
+  },
+  {
+    "name": "Beak",
+    "visible": true,
+    "order": 4,
+    "attributes": {
+      "Bandage-Beak": {
         "id": 90,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Tongue Out#20/0.png",
-          "/layers/4-Mouth/Tongue Out#20/1.png",
-          "/layers/4-Mouth/Tongue Out#20/2.png"
+          "/layers/4-Beak/Bandage-Beak/0.png",
+          "/layers/4-Beak/Bandage-Beak/1.png",
+          "/layers/4-Beak/Bandage-Beak/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Wow": {
+      "Bandage-Wide-Beak": {
         "id": 91,
         "visible": true,
         "paths": [
-          "/layers/4-Mouth/Wow#20/0.png",
-          "/layers/4-Mouth/Wow#20/1.png",
-          "/layers/4-Mouth/Wow#20/2.png"
+          "/layers/4-Beak/Bandage-Wide-Beak/0.png",
+          "/layers/4-Beak/Bandage-Wide-Beak/1.png",
+          "/layers/4-Beak/Bandage-Wide-Beak/2.png"
         ],
-        "weight": 20
-      }
-    }
-  },
-  {
-    "name": "Nose",
-    "visible": true,
-    "order": 5,
-    "attributes": {
-      "Black": {
+        "weight": 100
+      },
+      "Bloody-Beak": {
         "id": 92,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Black#20/0.png",
-          "/layers/5-Nose/Black#20/1.png",
-          "/layers/5-Nose/Black#20/2.png"
+          "/layers/4-Beak/Bloody-Beak/0.png",
+          "/layers/4-Beak/Bloody-Beak/1.png",
+          "/layers/4-Beak/Bloody-Beak/2.png"
         ],
-        "weight": 20,
-        "no": [ 100, 101, 102, 103, 104, 105 ]
+        "weight": 100
       },
-      "Brown": {
+      "Bloody-Wide-Beak": {
         "id": 93,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Brown#20/0.png",
-          "/layers/5-Nose/Brown#20/1.png",
-          "/layers/5-Nose/Brown#20/2.png"
+          "/layers/4-Beak/Bloody-Wide-Beak/0.png",
+          "/layers/4-Beak/Bloody-Wide-Beak/1.png",
+          "/layers/4-Beak/Bloody-Wide-Beak/2.png"
         ],
-        "weight": 20,
-        "no": [ 99, 101, 102, 103, 104, 105 ]
+        "weight": 100
       },
-      "Golden": {
+      "Cracked-Beak": {
         "id": 94,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Golden#10/0.png",
-          "/layers/5-Nose/Golden#10/1.png",
-          "/layers/5-Nose/Golden#10/2.png"
+          "/layers/4-Beak/Cracked-Beak/0.png",
+          "/layers/4-Beak/Cracked-Beak/1.png",
+          "/layers/4-Beak/Cracked-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 99, 100, 102, 103, 104, 105 ]
+        "weight": 100
       },
-      "Green": {
+      "Cracked-Wide-Beak": {
         "id": 95,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Green#10/0.png",
-          "/layers/5-Nose/Green#10/1.png",
-          "/layers/5-Nose/Green#10/2.png"
+          "/layers/4-Beak/Cracked-Wide-Beak/0.png",
+          "/layers/4-Beak/Cracked-Wide-Beak/1.png",
+          "/layers/4-Beak/Cracked-Wide-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 99, 100, 101, 103, 104, 105 ]
+        "weight": 100
       },
-      "Orange": {
+      "Cybord-Wide-Beak": {
         "id": 96,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Orange#10/0.png",
-          "/layers/5-Nose/Orange#10/1.png",
-          "/layers/5-Nose/Orange#10/2.png"
+          "/layers/4-Beak/Cybord-Wide-Beak/0.png",
+          "/layers/4-Beak/Cybord-Wide-Beak/1.png",
+          "/layers/4-Beak/Cybord-Wide-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 99, 100, 101, 102, 104, 105 ]
+        "weight": 100
       },
-      "Pink": {
+      "Cyborg-Beak": {
         "id": 97,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Pink#20/0.png",
-          "/layers/5-Nose/Pink#20/1.png",
-          "/layers/5-Nose/Pink#20/2.png"
+          "/layers/4-Beak/Cyborg-Beak/0.png",
+          "/layers/4-Beak/Cyborg-Beak/1.png",
+          "/layers/4-Beak/Cyborg-Beak/2.png"
         ],
-        "weight": 20,
-        "no": [ 99, 100, 101, 102, 103, 105 ]
+        "weight": 100
       },
-      "Purple": {
+      "Gold-Beak": {
         "id": 98,
         "visible": true,
         "paths": [
-          "/layers/5-Nose/Purple#10/0.png",
-          "/layers/5-Nose/Purple#10/1.png",
-          "/layers/5-Nose/Purple#10/2.png"
+          "/layers/4-Beak/Gold-Beak/0.png",
+          "/layers/4-Beak/Gold-Beak/1.png",
+          "/layers/4-Beak/Gold-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 99, 100, 101, 102, 103, 104 ]
-      }
-    }
-  },
-  {
-    "name": "Belly",
-    "visible": true,
-    "order": 6,
-    "attributes": {
-      "Black": {
+        "weight": 100
+      },
+      "Gold-Wide-Beak": {
         "id": 99,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Black#30/0.png",
-          "/layers/6-Belly/Black#30/1.png",
-          "/layers/6-Belly/Black#30/2.png"
+          "/layers/4-Beak/Gold-Wide-Beak/0.png",
+          "/layers/4-Beak/Gold-Wide-Beak/1.png",
+          "/layers/4-Beak/Gold-Wide-Beak/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Brown": {
+      "Mech-Beak": {
         "id": 100,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Brown#30/0.png",
-          "/layers/6-Belly/Brown#30/1.png",
-          "/layers/6-Belly/Brown#30/2.png"
+          "/layers/4-Beak/Mech-Beak/0.png",
+          "/layers/4-Beak/Mech-Beak/1.png",
+          "/layers/4-Beak/Mech-Beak/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Golden": {
+      "Mech-Wide-Beak": {
         "id": 101,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Golden#10/0.png",
-          "/layers/6-Belly/Golden#10/1.png",
-          "/layers/6-Belly/Golden#10/2.png"
+          "/layers/4-Beak/Mech-Wide-Beak/0.png",
+          "/layers/4-Beak/Mech-Wide-Beak/1.png",
+          "/layers/4-Beak/Mech-Wide-Beak/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Green": {
+      "Metal-Beak": {
         "id": 102,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Green#20/0.png",
-          "/layers/6-Belly/Green#20/1.png",
-          "/layers/6-Belly/Green#20/2.png"
+          "/layers/4-Beak/Metal-Beak/0.png",
+          "/layers/4-Beak/Metal-Beak/1.png",
+          "/layers/4-Beak/Metal-Beak/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Orange": {
+      "Metal-Wide-Beak": {
         "id": 103,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Orange#20/0.png",
-          "/layers/6-Belly/Orange#20/1.png",
-          "/layers/6-Belly/Orange#20/2.png"
+          "/layers/4-Beak/Metal-Wide-Beak/0.png",
+          "/layers/4-Beak/Metal-Wide-Beak/1.png",
+          "/layers/4-Beak/Metal-Wide-Beak/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Pink": {
+      "Mossy-Beak": {
         "id": 104,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Pink#30/0.png",
-          "/layers/6-Belly/Pink#30/1.png",
-          "/layers/6-Belly/Pink#30/2.png"
+          "/layers/4-Beak/Mossy-Beak/0.png",
+          "/layers/4-Beak/Mossy-Beak/1.png",
+          "/layers/4-Beak/Mossy-Beak/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Purple": {
+      "Mossy-Wide-Beak": {
         "id": 105,
         "visible": true,
         "paths": [
-          "/layers/6-Belly/Purple#20/0.png",
-          "/layers/6-Belly/Purple#20/1.png",
-          "/layers/6-Belly/Purple#20/2.png"
+          "/layers/4-Beak/Mossy-Wide-Beak/0.png",
+          "/layers/4-Beak/Mossy-Wide-Beak/1.png",
+          "/layers/4-Beak/Mossy-Wide-Beak/2.png"
         ],
-        "weight": 20
-      }
-    }
-  },
-  {
-    "name": "Earrings",
-    "visible": true,
-    "order": 7,
-    "attributes": {
-      "Both": {
+        "weight": 100
+      },
+      "Normal-Beak": {
         "id": 106,
         "visible": true,
         "paths": [
-          "/layers/7-Earrings/Both#10/0.png",
-          "/layers/7-Earrings/Both#10/1.png",
-          "/layers/7-Earrings/Both#10/2.png"
+          "/layers/4-Beak/Normal-Beak/0.png",
+          "/layers/4-Beak/Normal-Beak/1.png",
+          "/layers/4-Beak/Normal-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 112, 115, 118, 121, 122, 124, 129, 139, 144, 145, 147 ]
+        "weight": 100
       },
-      "Left": {
+      "Rusted-Metal-Beak": {
         "id": 107,
         "visible": true,
         "paths": [
-          "/layers/7-Earrings/Left#10/0.png",
-          "/layers/7-Earrings/Left#10/1.png",
-          "/layers/7-Earrings/Left#10/2.png"
+          "/layers/4-Beak/Rusted-Metal-Beak/0.png",
+          "/layers/4-Beak/Rusted-Metal-Beak/1.png",
+          "/layers/4-Beak/Rusted-Metal-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 112, 115, 118, 121, 122, 124, 129, 139, 144, 145, 147 ]
+        "weight": 100
       },
-      "None": {
+      "Rusted-Metal-Wide-Beak": {
         "id": 108,
         "visible": true,
         "paths": [
-          "/layers/7-Earrings/None#30/0.png",
-          "/layers/7-Earrings/None#30/1.png",
-          "/layers/7-Earrings/None#30/2.png"
+          "/layers/4-Beak/Rusted-Metal-Wide-Beak/0.png",
+          "/layers/4-Beak/Rusted-Metal-Wide-Beak/1.png",
+          "/layers/4-Beak/Rusted-Metal-Wide-Beak/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Right": {
+      "Tongued-Beak": {
         "id": 109,
         "visible": true,
         "paths": [
-          "/layers/7-Earrings/Right#10/0.png",
-          "/layers/7-Earrings/Right#10/1.png",
-          "/layers/7-Earrings/Right#10/2.png"
+          "/layers/4-Beak/Tongued-Beak/0.png",
+          "/layers/4-Beak/Tongued-Beak/1.png",
+          "/layers/4-Beak/Tongued-Beak/2.png"
         ],
-        "weight": 10,
-        "no": [ 112, 115, 118, 121, 122, 124, 129, 139, 144, 145, 147 ]
+        "weight": 100
+      },
+      "Wide-Beak": {
+        "id": 110,
+        "visible": true,
+        "paths": [
+          "/layers/4-Beak/Wide-Beak/0.png",
+          "/layers/4-Beak/Wide-Beak/1.png",
+          "/layers/4-Beak/Wide-Beak/2.png"
+        ],
+        "weight": 100
       }
     }
   },
   {
     "name": "Head",
     "visible": true,
-    "order": 8,
+    "order": 5,
     "attributes": {
-      "Bare": {
-        "id": 70001,
-        "visible": true,
-        "paths": [
-          "/layers/7-Earrings/None#30/0.png",
-          "/layers/7-Earrings/None#30/1.png",
-          "/layers/7-Earrings/None#30/2.png"
-        ],
-        "weight": 30
-      },
-      "Army Bucket Hat": {
-        "id": 110,
-        "visible": true,
-        "paths": [
-          "/layers/8-Head/Army Bucket Hat#20/0.png",
-          "/layers/8-Head/Army Bucket Hat#20/1.png",
-          "/layers/8-Head/Army Bucket Hat#20/2.png"
-        ],
-        "weight": 20
-      },
-      "Army Beret": {
+      "3d-Glasses": {
         "id": 111,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Army Hat#20/0.png",
-          "/layers/8-Head/Army Hat#20/1.png",
-          "/layers/8-Head/Army Hat#20/2.png"
+          "/layers/5-Head-Accessory/3d-Glasses/0.png",
+          "/layers/5-Head-Accessory/3d-Glasses/1.png",
+          "/layers/5-Head-Accessory/3d-Glasses/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Afro": {
+      "Accessory-cigar": {
         "id": 112,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Afro#10/0.png",
-          "/layers/8-Head/Black Afro#10/1.png",
-          "/layers/8-Head/Black Afro#10/2.png"
+          "/layers/5-Head-Accessory/Accessory-cigar/0.png",
+          "/layers/5-Head-Accessory/Accessory-cigar/1.png",
+          "/layers/5-Head-Accessory/Accessory-cigar/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Black Beanie": {
+      "Astronaut-Helmet": {
         "id": 113,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Beanie#20/0.png",
-          "/layers/8-Head/Black Beanie#20/1.png",
-          "/layers/8-Head/Black Beanie#20/2.png"
+          "/layers/5-Head-Accessory/Astronaut-Helmet/0.png",
+          "/layers/5-Head-Accessory/Astronaut-Helmet/1.png",
+          "/layers/5-Head-Accessory/Astronaut-Helmet/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Bucket Hat": {
+      "Baseballcapblack": {
         "id": 114,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Bucket Hat#20/0.png",
-          "/layers/8-Head/Black Bucket Hat#20/1.png",
-          "/layers/8-Head/Black Bucket Hat#20/2.png"
+          "/layers/5-Head-Accessory/Baseballcapblack/0.png",
+          "/layers/5-Head-Accessory/Baseballcapblack/1.png",
+          "/layers/5-Head-Accessory/Baseballcapblack/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Cowboy Hat": {
+      "Baseballcapblue": {
         "id": 115,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Cowboy Hat#10/0.png",
-          "/layers/8-Head/Black Cowboy Hat#10/1.png",
-          "/layers/8-Head/Black Cowboy Hat#10/2.png"
+          "/layers/5-Head-Accessory/Baseballcapblue/0.png",
+          "/layers/5-Head-Accessory/Baseballcapblue/1.png",
+          "/layers/5-Head-Accessory/Baseballcapblue/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Black Durag": {
+      "Baseballcapgreen": {
         "id": 116,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Durag#20/0.png",
-          "/layers/8-Head/Black Durag#20/1.png",
-          "/layers/8-Head/Black Durag#20/2.png"
+          "/layers/5-Head-Accessory/Baseballcapgreen/0.png",
+          "/layers/5-Head-Accessory/Baseballcapgreen/1.png",
+          "/layers/5-Head-Accessory/Baseballcapgreen/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Horns": {
+      "Baseballcapred": {
         "id": 117,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Horns#20/0.png",
-          "/layers/8-Head/Black Horns#20/1.png",
-          "/layers/8-Head/Black Horns#20/2.png"
+          "/layers/5-Head-Accessory/Baseballcapred/0.png",
+          "/layers/5-Head-Accessory/Baseballcapred/1.png",
+          "/layers/5-Head-Accessory/Baseballcapred/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Pork Pie": {
+      "Baseballcapwhite": {
         "id": 118,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Black Pork Pie#10/0.png",
-          "/layers/8-Head/Black Pork Pie#10/1.png",
-          "/layers/8-Head/Black Pork Pie#10/2.png"
+          "/layers/5-Head-Accessory/Baseballcapwhite/0.png",
+          "/layers/5-Head-Accessory/Baseballcapwhite/1.png",
+          "/layers/5-Head-Accessory/Baseballcapwhite/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Blue Bandana": {
+      "Beam-Tracker-Goggles": {
         "id": 119,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Blue Bandana#20/0.png",
-          "/layers/8-Head/Blue Bandana#20/1.png",
-          "/layers/8-Head/Blue Bandana#20/2.png"
+          "/layers/5-Head-Accessory/Beam-Tracker-Goggles/0.png",
+          "/layers/5-Head-Accessory/Beam-Tracker-Goggles/1.png",
+          "/layers/5-Head-Accessory/Beam-Tracker-Goggles/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Blue Cap": {
+      "Black-Bandana": {
         "id": 120,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Blue Cap#20/0.png",
-          "/layers/8-Head/Blue Cap#20/1.png",
-          "/layers/8-Head/Blue Cap#20/2.png"
+          "/layers/5-Head-Accessory/Black-Bandana/0.png",
+          "/layers/5-Head-Accessory/Black-Bandana/1.png",
+          "/layers/5-Head-Accessory/Black-Bandana/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Brown Afro": {
+      "Blue-Bandana": {
         "id": 121,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Brown Afro#10/0.png",
-          "/layers/8-Head/Brown Afro#10/1.png",
-          "/layers/8-Head/Brown Afro#10/2.png"
+          "/layers/5-Head-Accessory/Blue-Bandana/0.png",
+          "/layers/5-Head-Accessory/Blue-Bandana/1.png",
+          "/layers/5-Head-Accessory/Blue-Bandana/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Brown Cowboy Hat": {
+      "Blue-Headband": {
         "id": 122,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Brown Cowboy Hat#10/0.png",
-          "/layers/8-Head/Brown Cowboy Hat#10/1.png",
-          "/layers/8-Head/Brown Cowboy Hat#10/2.png"
+          "/layers/5-Head-Accessory/Blue-Headband/0.png",
+          "/layers/5-Head-Accessory/Blue-Headband/1.png",
+          "/layers/5-Head-Accessory/Blue-Headband/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Brown Horns": {
+      "Blue-Visor": {
         "id": 123,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Brown Horns#20/0.png",
-          "/layers/8-Head/Brown Horns#20/1.png",
-          "/layers/8-Head/Brown Horns#20/2.png"
+          "/layers/5-Head-Accessory/Blue-Visor/0.png",
+          "/layers/5-Head-Accessory/Blue-Visor/1.png",
+          "/layers/5-Head-Accessory/Blue-Visor/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Brown Pork Pie": {
+      "Blue-Winter-Hat": {
         "id": 124,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Brown Pork Pie#10/0.png",
-          "/layers/8-Head/Brown Pork Pie#10/1.png",
-          "/layers/8-Head/Brown Pork Pie#10/2.png"
+          "/layers/5-Head-Accessory/Blue-Winter-Hat/0.png",
+          "/layers/5-Head-Accessory/Blue-Winter-Hat/1.png",
+          "/layers/5-Head-Accessory/Blue-Winter-Hat/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Crown": {
+      "Bomb": {
         "id": 125,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Crown#5/0.png",
-          "/layers/8-Head/Crown#5/1.png",
-          "/layers/8-Head/Crown#5/2.png"
+          "/layers/5-Head-Accessory/Bomb/0.png",
+          "/layers/5-Head-Accessory/Bomb/1.png",
+          "/layers/5-Head-Accessory/Bomb/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Fur Hat": {
+      "Broken-Horn": {
         "id": 126,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Fur Hat#20/0.png",
-          "/layers/8-Head/Fur Hat#20/1.png",
-          "/layers/8-Head/Fur Hat#20/2.png"
+          "/layers/5-Head-Accessory/Broken-Horn/0.png",
+          "/layers/5-Head-Accessory/Broken-Horn/1.png",
+          "/layers/5-Head-Accessory/Broken-Horn/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Gold Horns": {
+      "Bronze-Helmet": {
         "id": 127,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Gold Horns#5/0.png",
-          "/layers/8-Head/Gold Horns#5/1.png",
-          "/layers/8-Head/Gold Horns#5/2.png"
+          "/layers/5-Head-Accessory/Bronze-Helmet/0.png",
+          "/layers/5-Head-Accessory/Bronze-Helmet/1.png",
+          "/layers/5-Head-Accessory/Bronze-Helmet/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Green Cap": {
+      "Bucket-Hat": {
         "id": 128,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Green Cap#20/0.png",
-          "/layers/8-Head/Green Cap#20/1.png",
-          "/layers/8-Head/Green Cap#20/2.png"
+          "/layers/5-Head-Accessory/Bucket-Hat/0.png",
+          "/layers/5-Head-Accessory/Bucket-Hat/1.png",
+          "/layers/5-Head-Accessory/Bucket-Hat/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Green Derby": {
+      "Cowboy-Hat": {
         "id": 129,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Green Derby#5/0.png",
-          "/layers/8-Head/Green Derby#5/1.png",
-          "/layers/8-Head/Green Derby#5/2.png"
+          "/layers/5-Head-Accessory/Cowboy-Hat/0.png",
+          "/layers/5-Head-Accessory/Cowboy-Hat/1.png",
+          "/layers/5-Head-Accessory/Cowboy-Hat/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Green Mohawk": {
+      "Crown": {
         "id": 130,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Green Mohawk#20/0.png",
-          "/layers/8-Head/Green Mohawk#20/1.png",
-          "/layers/8-Head/Green Mohawk#20/2.png"
+          "/layers/5-Head-Accessory/Crown/0.png",
+          "/layers/5-Head-Accessory/Crown/1.png",
+          "/layers/5-Head-Accessory/Crown/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Half White Horns": {
+      "Cyber-Gas-Mask": {
         "id": 131,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Half White Horns#20/0.png",
-          "/layers/8-Head/Half White Horns#20/1.png",
-          "/layers/8-Head/Half White Horns#20/2.png"
+          "/layers/5-Head-Accessory/Cyber-Gas-Mask/0.png",
+          "/layers/5-Head-Accessory/Cyber-Gas-Mask/1.png",
+          "/layers/5-Head-Accessory/Cyber-Gas-Mask/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Halo": {
+      "Cyber-Visor": {
         "id": 132,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Halo#10/0.png",
-          "/layers/8-Head/Halo#10/1.png",
-          "/layers/8-Head/Halo#10/2.png"
+          "/layers/5-Head-Accessory/Cyber-Visor/0.png",
+          "/layers/5-Head-Accessory/Cyber-Visor/1.png",
+          "/layers/5-Head-Accessory/Cyber-Visor/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Headset": {
+      "Cyborg-Drone": {
         "id": 133,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Headset#20/0.png",
-          "/layers/8-Head/Headset#20/1.png",
-          "/layers/8-Head/Headset#20/2.png"
+          "/layers/5-Head-Accessory/Cyborg-Drone/0.png",
+          "/layers/5-Head-Accessory/Cyborg-Drone/1.png",
+          "/layers/5-Head-Accessory/Cyborg-Drone/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Nub Horns": {
+      "Cyclops-Goggles": {
         "id": 134,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Nub Horns#20/0.png",
-          "/layers/8-Head/Nub Horns#20/1.png",
-          "/layers/8-Head/Nub Horns#20/2.png"
+          "/layers/5-Head-Accessory/Cyclops-Goggles/0.png",
+          "/layers/5-Head-Accessory/Cyclops-Goggles/1.png",
+          "/layers/5-Head-Accessory/Cyclops-Goggles/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Pink Mohawk": {
+      "Dizzy-Glasses": {
         "id": 135,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Pink Mohawk#20/0.png",
-          "/layers/8-Head/Pink Mohawk#20/1.png",
-          "/layers/8-Head/Pink Mohawk#20/2.png"
+          "/layers/5-Head-Accessory/Dizzy-Glasses/0.png",
+          "/layers/5-Head-Accessory/Dizzy-Glasses/1.png",
+          "/layers/5-Head-Accessory/Dizzy-Glasses/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Police Hat": {
+      "Doubleearrings-left": {
         "id": 136,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Police Hat#20/0.png",
-          "/layers/8-Head/Police Hat#20/1.png",
-          "/layers/8-Head/Police Hat#20/2.png"
+          "/layers/5-Head-Accessory/Doubleearrings-left/0.png",
+          "/layers/5-Head-Accessory/Doubleearrings-left/1.png",
+          "/layers/5-Head-Accessory/Doubleearrings-left/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Purple Mohawk": {
+      "Drone-Bot": {
         "id": 137,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Purple Mohawk#20/0.png",
-          "/layers/8-Head/Purple Mohawk#20/1.png",
-          "/layers/8-Head/Purple Mohawk#20/2.png"
+          "/layers/5-Head-Accessory/Drone-Bot/0.png",
+          "/layers/5-Head-Accessory/Drone-Bot/1.png",
+          "/layers/5-Head-Accessory/Drone-Bot/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Rainbow Horns": {
+      "Dual-Gas-Mask": {
         "id": 138,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Rainbow Horns#10/0.png",
-          "/layers/8-Head/Rainbow Horns#10/1.png",
-          "/layers/8-Head/Rainbow Horns#10/2.png"
+          "/layers/5-Head-Accessory/Dual-Gas-Mask/0.png",
+          "/layers/5-Head-Accessory/Dual-Gas-Mask/1.png",
+          "/layers/5-Head-Accessory/Dual-Gas-Mask/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Red Afro": {
+      "Earth-Element": {
         "id": 139,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Red Afro#10/0.png",
-          "/layers/8-Head/Red Afro#10/1.png",
-          "/layers/8-Head/Red Afro#10/2.png"
+          "/layers/5-Head-Accessory/Earth-Element/0.png",
+          "/layers/5-Head-Accessory/Earth-Element/1.png",
+          "/layers/5-Head-Accessory/Earth-Element/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Red Bandana": {
+      "Electric-Element": {
         "id": 140,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Red Bandana#20/0.png",
-          "/layers/8-Head/Red Bandana#20/1.png",
-          "/layers/8-Head/Red Bandana#20/2.png"
+          "/layers/5-Head-Accessory/Electric-Element/0.png",
+          "/layers/5-Head-Accessory/Electric-Element/1.png",
+          "/layers/5-Head-Accessory/Electric-Element/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Red Beanie": {
+      "Electrowl": {
         "id": 141,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Red Beanie#20/0.png",
-          "/layers/8-Head/Red Beanie#20/1.png",
-          "/layers/8-Head/Red Beanie#20/2.png"
+          "/layers/5-Head-Accessory/Electrowl/0.png",
+          "/layers/5-Head-Accessory/Electrowl/1.png",
+          "/layers/5-Head-Accessory/Electrowl/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Red Cap": {
+      "Ethereum": {
         "id": 142,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Red Cap#20/0.png",
-          "/layers/8-Head/Red Cap#20/1.png",
-          "/layers/8-Head/Red Cap#20/2.png"
+          "/layers/5-Head-Accessory/Ethereum/0.png",
+          "/layers/5-Head-Accessory/Ethereum/1.png",
+          "/layers/5-Head-Accessory/Ethereum/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Red Horns": {
+      "Eyepatch": {
         "id": 143,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Red Horns#5/0.png",
-          "/layers/8-Head/Red Horns#5/1.png",
-          "/layers/8-Head/Red Horns#5/2.png"
+          "/layers/5-Head-Accessory/Eyepatch/0.png",
+          "/layers/5-Head-Accessory/Eyepatch/1.png",
+          "/layers/5-Head-Accessory/Eyepatch/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Santa Hat": {
+      "Eyes-bitcoin": {
         "id": 144,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Santa Hat#20/0.png",
-          "/layers/8-Head/Santa Hat#20/1.png",
-          "/layers/8-Head/Santa Hat#20/2.png"
+          "/layers/5-Head-Accessory/Eyes-bitcoin/0.png",
+          "/layers/5-Head-Accessory/Eyes-bitcoin/1.png",
+          "/layers/5-Head-Accessory/Eyes-bitcoin/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Sombrero": {
+      "Fire-Crown": {
         "id": 145,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Sombrero#10/0.png",
-          "/layers/8-Head/Sombrero#10/1.png",
-          "/layers/8-Head/Sombrero#10/2.png"
+          "/layers/5-Head-Accessory/Fire-Crown/0.png",
+          "/layers/5-Head-Accessory/Fire-Crown/1.png",
+          "/layers/5-Head-Accessory/Fire-Crown/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Tiara": {
+      "Fire-Element": {
         "id": 146,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Tiara#10/0.png",
-          "/layers/8-Head/Tiara#10/1.png",
-          "/layers/8-Head/Tiara#10/2.png"
+          "/layers/5-Head-Accessory/Fire-Element/0.png",
+          "/layers/5-Head-Accessory/Fire-Element/1.png",
+          "/layers/5-Head-Accessory/Fire-Element/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Uncle Sam": {
+      "Fried-Egg": {
         "id": 147,
         "visible": true,
         "paths": [
-          "/layers/8-Head/Uncle Sam#5/0.png",
-          "/layers/8-Head/Uncle Sam#5/1.png",
-          "/layers/8-Head/Uncle Sam#5/2.png"
+          "/layers/5-Head-Accessory/Fried-Egg/0.png",
+          "/layers/5-Head-Accessory/Fried-Egg/1.png",
+          "/layers/5-Head-Accessory/Fried-Egg/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "White Horns": {
+      "Gamma-Ray-Glasses": {
         "id": 148,
         "visible": true,
         "paths": [
-          "/layers/8-Head/White Horns#20/0.png",
-          "/layers/8-Head/White Horns#20/1.png",
-          "/layers/8-Head/White Horns#20/2.png"
+          "/layers/5-Head-Accessory/Gamma-Ray-Glasses/0.png",
+          "/layers/5-Head-Accessory/Gamma-Ray-Glasses/1.png",
+          "/layers/5-Head-Accessory/Gamma-Ray-Glasses/2.png"
         ],
-        "weight": 20
-      }
-    }
-  },
-  {
-    "name": "Outwear",
-    "visible": true,
-    "order": 9,
-    "attributes": {
-      "Angel": {
+        "weight": 100
+      },
+      "Goggles": {
         "id": 149,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Angel#2/0.png",
-          "/layers/9-Outwear/Angel#2/1.png",
-          "/layers/9-Outwear/Angel#2/2.png"
+          "/layers/5-Head-Accessory/Goggles/0.png",
+          "/layers/5-Head-Accessory/Goggles/1.png",
+          "/layers/5-Head-Accessory/Goggles/2.png"
         ],
-        "weight": 2
+        "weight": 100
       },
-      "Black Hoodie": {
+      "Gold-Helmet": {
         "id": 150,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Black Hoodie#20/0.png",
-          "/layers/9-Outwear/Black Hoodie#20/1.png",
-          "/layers/9-Outwear/Black Hoodie#20/2.png"
+          "/layers/5-Head-Accessory/Gold-Helmet/0.png",
+          "/layers/5-Head-Accessory/Gold-Helmet/1.png",
+          "/layers/5-Head-Accessory/Gold-Helmet/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Kimono": {
+      "Gold-Unicorn-Horn": {
         "id": 151,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Black Kimono#10/0.png",
-          "/layers/9-Outwear/Black Kimono#10/1.png",
-          "/layers/9-Outwear/Black Kimono#10/2.png"
+          "/layers/5-Head-Accessory/Gold-Unicorn-Horn/0.png",
+          "/layers/5-Head-Accessory/Gold-Unicorn-Horn/1.png",
+          "/layers/5-Head-Accessory/Gold-Unicorn-Horn/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Black Shirt": {
+      "Green-Bandana": {
         "id": 152,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Black Shirt#20/0.png",
-          "/layers/9-Outwear/Black Shirt#20/1.png",
-          "/layers/9-Outwear/Black Shirt#20/2.png"
+          "/layers/5-Head-Accessory/Green-Bandana/0.png",
+          "/layers/5-Head-Accessory/Green-Bandana/1.png",
+          "/layers/5-Head-Accessory/Green-Bandana/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Black Suit": {
+      "Green-Visor": {
         "id": 153,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Black Suit#5/0.png",
-          "/layers/9-Outwear/Black Suit#5/1.png",
-          "/layers/9-Outwear/Black Suit#5/2.png"
+          "/layers/5-Head-Accessory/Green-Visor/0.png",
+          "/layers/5-Head-Accessory/Green-Visor/1.png",
+          "/layers/5-Head-Accessory/Green-Visor/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Black White Shirt": {
+      "Halo": {
         "id": 154,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Black White Shirt#20/0.png",
-          "/layers/9-Outwear/Black White Shirt#20/1.png",
-          "/layers/9-Outwear/Black White Shirt#20/2.png"
+          "/layers/5-Head-Accessory/Halo/0.png",
+          "/layers/5-Head-Accessory/Halo/1.png",
+          "/layers/5-Head-Accessory/Halo/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Blue Boxing Gloves": {
+      "Headgoggles": {
         "id": 155,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Blue Boxing Gloves#10/0.png",
-          "/layers/9-Outwear/Blue Boxing Gloves#10/1.png",
-          "/layers/9-Outwear/Blue Boxing Gloves#10/2.png"
+          "/layers/5-Head-Accessory/Headgoggles/0.png",
+          "/layers/5-Head-Accessory/Headgoggles/1.png",
+          "/layers/5-Head-Accessory/Headgoggles/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Blue Hawaiian": {
+      "Headphones": {
         "id": 156,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Blue Hawaiian#10/0.png",
-          "/layers/9-Outwear/Blue Hawaiian#10/1.png",
-          "/layers/9-Outwear/Blue Hawaiian#10/2.png"
+          "/layers/5-Head-Accessory/Headphones/0.png",
+          "/layers/5-Head-Accessory/Headphones/1.png",
+          "/layers/5-Head-Accessory/Headphones/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Blue Street Fighter": {
+      "Hi-tech-Goggles": {
         "id": 157,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Blue Street Fighter#10/0.png",
-          "/layers/9-Outwear/Blue Street Fighter#10/1.png",
-          "/layers/9-Outwear/Blue Street Fighter#10/2.png"
+          "/layers/5-Head-Accessory/Hi-tech-Goggles/0.png",
+          "/layers/5-Head-Accessory/Hi-tech-Goggles/1.png",
+          "/layers/5-Head-Accessory/Hi-tech-Goggles/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Brown Suit": {
+      "Horn-moss": {
         "id": 158,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Brown Suit#5/0.png",
-          "/layers/9-Outwear/Brown Suit#5/1.png",
-          "/layers/9-Outwear/Brown Suit#5/2.png"
+          "/layers/5-Head-Accessory/Horn-moss/0.png",
+          "/layers/5-Head-Accessory/Horn-moss/1.png",
+          "/layers/5-Head-Accessory/Horn-moss/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Bullet Proof": {
+      "Ice-Element": {
         "id": 159,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Bullet Proof#20/0.png",
-          "/layers/9-Outwear/Bullet Proof#20/1.png",
-          "/layers/9-Outwear/Bullet Proof#20/2.png"
+          "/layers/5-Head-Accessory/Ice-Element/0.png",
+          "/layers/5-Head-Accessory/Ice-Element/1.png",
+          "/layers/5-Head-Accessory/Ice-Element/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Bulls": {
+      "Light-Element": {
         "id": 160,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Bulls#10/0.png",
-          "/layers/9-Outwear/Bulls#10/1.png",
-          "/layers/9-Outwear/Bulls#10/2.png"
+          "/layers/5-Head-Accessory/Light-Element/0.png",
+          "/layers/5-Head-Accessory/Light-Element/1.png",
+          "/layers/5-Head-Accessory/Light-Element/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Camo Shirt": {
+      "Light-Visor": {
         "id": 161,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Camo Shirt#20/0.png",
-          "/layers/9-Outwear/Camo Shirt#20/1.png",
-          "/layers/9-Outwear/Camo Shirt#20/2.png"
+          "/layers/5-Head-Accessory/Light-Visor/0.png",
+          "/layers/5-Head-Accessory/Light-Visor/1.png",
+          "/layers/5-Head-Accessory/Light-Visor/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Cowboy": {
+      "Maskblue": {
         "id": 162,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Cowboy#5/0.png",
-          "/layers/9-Outwear/Cowboy#5/1.png",
-          "/layers/9-Outwear/Cowboy#5/2.png"
+          "/layers/5-Head-Accessory/Maskblue/0.png",
+          "/layers/5-Head-Accessory/Maskblue/1.png",
+          "/layers/5-Head-Accessory/Maskblue/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "DOC": {
+      "Maskgold": {
         "id": 163,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/DOC#10/0.png",
-          "/layers/9-Outwear/DOC#10/1.png",
-          "/layers/9-Outwear/DOC#10/2.png"
+          "/layers/5-Head-Accessory/Maskgold/0.png",
+          "/layers/5-Head-Accessory/Maskgold/1.png",
+          "/layers/5-Head-Accessory/Maskgold/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Denim": {
+      "Maskgreen": {
         "id": 164,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Denim#20/0.png",
-          "/layers/9-Outwear/Denim#20/1.png",
-          "/layers/9-Outwear/Denim#20/2.png"
+          "/layers/5-Head-Accessory/Maskgreen/0.png",
+          "/layers/5-Head-Accessory/Maskgreen/1.png",
+          "/layers/5-Head-Accessory/Maskgreen/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Gold Armor": {
+      "Maskpurple": {
         "id": 165,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Gold Armor#5/0.png",
-          "/layers/9-Outwear/Gold Armor#5/1.png",
-          "/layers/9-Outwear/Gold Armor#5/2.png"
+          "/layers/5-Head-Accessory/Maskpurple/0.png",
+          "/layers/5-Head-Accessory/Maskpurple/1.png",
+          "/layers/5-Head-Accessory/Maskpurple/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Goodfellas": {
+      "Mech-Drone": {
         "id": 166,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Goodfellas#10/0.png",
-          "/layers/9-Outwear/Goodfellas#10/1.png",
-          "/layers/9-Outwear/Goodfellas#10/2.png"
+          "/layers/5-Head-Accessory/Mech-Drone/0.png",
+          "/layers/5-Head-Accessory/Mech-Drone/1.png",
+          "/layers/5-Head-Accessory/Mech-Drone/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Lakers": {
+      "Mkcrown": {
         "id": 167,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Lakers#10/0.png",
-          "/layers/9-Outwear/Lakers#10/1.png",
-          "/layers/9-Outwear/Lakers#10/2.png"
+          "/layers/5-Head-Accessory/Mkcrown/0.png",
+          "/layers/5-Head-Accessory/Mkcrown/1.png",
+          "/layers/5-Head-Accessory/Mkcrown/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Leather Jacket": {
+      "Mossy-Visor": {
         "id": 168,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Leather Jacket#20/0.png",
-          "/layers/9-Outwear/Leather Jacket#20/1.png",
-          "/layers/9-Outwear/Leather Jacket#20/2.png"
+          "/layers/5-Head-Accessory/Mossy-Visor/0.png",
+          "/layers/5-Head-Accessory/Mossy-Visor/1.png",
+          "/layers/5-Head-Accessory/Mossy-Visor/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Muay Thai": {
+      "Mushroom-Hat": {
         "id": 169,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Muay Thai#10/0.png",
-          "/layers/9-Outwear/Muay Thai#10/1.png",
-          "/layers/9-Outwear/Muay Thai#10/2.png"
+          "/layers/5-Head-Accessory/Mushroom-Hat/0.png",
+          "/layers/5-Head-Accessory/Mushroom-Hat/1.png",
+          "/layers/5-Head-Accessory/Mushroom-Hat/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Naked": {
+      "Night-Vision-Goggles": {
         "id": 170,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Naked#30/0.png",
-          "/layers/9-Outwear/Naked#30/1.png",
-          "/layers/9-Outwear/Naked#30/2.png"
+          "/layers/5-Head-Accessory/Night-Vision-Goggles/0.png",
+          "/layers/5-Head-Accessory/Night-Vision-Goggles/1.png",
+          "/layers/5-Head-Accessory/Night-Vision-Goggles/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Polo Sleeves": {
+      "Oni-Mask": {
         "id": 171,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Polo Sleeves#20/0.png",
-          "/layers/9-Outwear/Polo Sleeves#20/1.png",
-          "/layers/9-Outwear/Polo Sleeves#20/2.png"
+          "/layers/5-Head-Accessory/Oni-Mask/0.png",
+          "/layers/5-Head-Accessory/Oni-Mask/1.png",
+          "/layers/5-Head-Accessory/Oni-Mask/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Red Boxing Gloves": {
+      "Orange-Bandana": {
         "id": 172,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Red Boxing Gloves#10/0.png",
-          "/layers/9-Outwear/Red Boxing Gloves#10/1.png",
-          "/layers/9-Outwear/Red Boxing Gloves#10/2.png"
+          "/layers/5-Head-Accessory/Orange-Bandana/0.png",
+          "/layers/5-Head-Accessory/Orange-Bandana/1.png",
+          "/layers/5-Head-Accessory/Orange-Bandana/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Red Hawaiian": {
+      "Orange-Headband": {
         "id": 173,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Red Hawaiian#10/0.png",
-          "/layers/9-Outwear/Red Hawaiian#10/1.png",
-          "/layers/9-Outwear/Red Hawaiian#10/2.png"
+          "/layers/5-Head-Accessory/Orange-Headband/0.png",
+          "/layers/5-Head-Accessory/Orange-Headband/1.png",
+          "/layers/5-Head-Accessory/Orange-Headband/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Red Hoodie": {
+      "Pink-Bandana": {
         "id": 174,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Red Hoodie#20/0.png",
-          "/layers/9-Outwear/Red Hoodie#20/1.png",
-          "/layers/9-Outwear/Red Hoodie#20/2.png"
+          "/layers/5-Head-Accessory/Pink-Bandana/0.png",
+          "/layers/5-Head-Accessory/Pink-Bandana/1.png",
+          "/layers/5-Head-Accessory/Pink-Bandana/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Red Street Fighter": {
+      "Pink-Visor": {
         "id": 175,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Red Street Fighter#10/0.png",
-          "/layers/9-Outwear/Red Street Fighter#10/1.png",
-          "/layers/9-Outwear/Red Street Fighter#10/2.png"
+          "/layers/5-Head-Accessory/Pink-Visor/0.png",
+          "/layers/5-Head-Accessory/Pink-Visor/1.png",
+          "/layers/5-Head-Accessory/Pink-Visor/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Robe": {
+      "Pink-Winter-Hat": {
         "id": 176,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Robe#20/0.png",
-          "/layers/9-Outwear/Robe#20/1.png",
-          "/layers/9-Outwear/Robe#20/2.png"
+          "/layers/5-Head-Accessory/Pink-Winter-Hat/0.png",
+          "/layers/5-Head-Accessory/Pink-Winter-Hat/1.png",
+          "/layers/5-Head-Accessory/Pink-Winter-Hat/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Varsity Jacket": {
+      "Pipe": {
         "id": 177,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Varsity Jacket#20/0.png",
-          "/layers/9-Outwear/Varsity Jacket#20/1.png",
-          "/layers/9-Outwear/Varsity Jacket#20/2.png"
+          "/layers/5-Head-Accessory/Pipe/0.png",
+          "/layers/5-Head-Accessory/Pipe/1.png",
+          "/layers/5-Head-Accessory/Pipe/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Green Polo": {
+      "Piratehat": {
         "id": 178,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/White Green Polo#20/0.png",
-          "/layers/9-Outwear/White Green Polo#20/1.png",
-          "/layers/9-Outwear/White Green Polo#20/2.png"
+          "/layers/5-Head-Accessory/Piratehat/0.png",
+          "/layers/5-Head-Accessory/Piratehat/1.png",
+          "/layers/5-Head-Accessory/Piratehat/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "White Suit": {
+      "Police-Hat": {
         "id": 179,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/White Suit#5/0.png",
-          "/layers/9-Outwear/White Suit#5/1.png",
-          "/layers/9-Outwear/White Suit#5/2.png"
+          "/layers/5-Head-Accessory/Police-Hat/0.png",
+          "/layers/5-Head-Accessory/Police-Hat/1.png",
+          "/layers/5-Head-Accessory/Police-Hat/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Wings": {
+      "Propeller-Hat": {
         "id": 180,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Wings#10/0.png",
-          "/layers/9-Outwear/Wings#10/1.png",
-          "/layers/9-Outwear/Wings#10/2.png"
+          "/layers/5-Head-Accessory/Propeller-Hat/0.png",
+          "/layers/5-Head-Accessory/Propeller-Hat/1.png",
+          "/layers/5-Head-Accessory/Propeller-Hat/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Yellow Polo": {
+      "Purple-Bandana": {
         "id": 181,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Yellow Polo#20/0.png",
-          "/layers/9-Outwear/Yellow Polo#20/1.png",
-          "/layers/9-Outwear/Yellow Polo#20/2.png"
+          "/layers/5-Head-Accessory/Purple-Bandana/0.png",
+          "/layers/5-Head-Accessory/Purple-Bandana/1.png",
+          "/layers/5-Head-Accessory/Purple-Bandana/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Zero": {
+      "Purple-Visor": {
         "id": 182,
         "visible": true,
         "paths": [
-          "/layers/9-Outwear/Zero#20/0.png",
-          "/layers/9-Outwear/Zero#20/1.png",
-          "/layers/9-Outwear/Zero#20/2.png"
+          "/layers/5-Head-Accessory/Purple-Visor/0.png",
+          "/layers/5-Head-Accessory/Purple-Visor/1.png",
+          "/layers/5-Head-Accessory/Purple-Visor/2.png"
         ],
-        "weight": 20,
-        "no": [ 47, 42 ]
+        "weight": 100
+      },
+      "Red-Bandana": {
+        "id": 183,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Red-Bandana/0.png",
+          "/layers/5-Head-Accessory/Red-Bandana/1.png",
+          "/layers/5-Head-Accessory/Red-Bandana/2.png"
+        ],
+        "weight": 100
+      },
+      "Red-Visor": {
+        "id": 184,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Red-Visor/0.png",
+          "/layers/5-Head-Accessory/Red-Visor/1.png",
+          "/layers/5-Head-Accessory/Red-Visor/2.png"
+        ],
+        "weight": 100
+      },
+      "Round-Glasses": {
+        "id": 185,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Round-Glasses/0.png",
+          "/layers/5-Head-Accessory/Round-Glasses/1.png",
+          "/layers/5-Head-Accessory/Round-Glasses/2.png"
+        ],
+        "weight": 100
+      },
+      "Round-Laser-Glasses": {
+        "id": 186,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Round-Laser-Glasses/0.png",
+          "/layers/5-Head-Accessory/Round-Laser-Glasses/1.png",
+          "/layers/5-Head-Accessory/Round-Laser-Glasses/2.png"
+        ],
+        "weight": 100
+      },
+      "Sailor-Hat": {
+        "id": 187,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Sailor-Hat/0.png",
+          "/layers/5-Head-Accessory/Sailor-Hat/1.png",
+          "/layers/5-Head-Accessory/Sailor-Hat/2.png"
+        ],
+        "weight": 100
+      },
+      "Silver-Helmet": {
+        "id": 188,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Silver-Helmet/0.png",
+          "/layers/5-Head-Accessory/Silver-Helmet/1.png",
+          "/layers/5-Head-Accessory/Silver-Helmet/2.png"
+        ],
+        "weight": 100
+      },
+      "Single-Laser-Glasses": {
+        "id": 189,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Single-Laser-Glasses/0.png",
+          "/layers/5-Head-Accessory/Single-Laser-Glasses/1.png",
+          "/layers/5-Head-Accessory/Single-Laser-Glasses/2.png"
+        ],
+        "weight": 100
+      },
+      "Skullmask": {
+        "id": 190,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Skullmask/0.png",
+          "/layers/5-Head-Accessory/Skullmask/1.png",
+          "/layers/5-Head-Accessory/Skullmask/2.png"
+        ],
+        "weight": 100
+      },
+      "Spectrum-Goggles": {
+        "id": 191,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Spectrum-Goggles/0.png",
+          "/layers/5-Head-Accessory/Spectrum-Goggles/1.png",
+          "/layers/5-Head-Accessory/Spectrum-Goggles/2.png"
+        ],
+        "weight": 100
+      },
+      "Sproutblue": {
+        "id": 192,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Sproutblue/0.png",
+          "/layers/5-Head-Accessory/Sproutblue/1.png",
+          "/layers/5-Head-Accessory/Sproutblue/2.png"
+        ],
+        "weight": 100
+      },
+      "Sproutgreen": {
+        "id": 193,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Sproutgreen/0.png",
+          "/layers/5-Head-Accessory/Sproutgreen/1.png",
+          "/layers/5-Head-Accessory/Sproutgreen/2.png"
+        ],
+        "weight": 100
+      },
+      "Sproutred": {
+        "id": 194,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Sproutred/0.png",
+          "/layers/5-Head-Accessory/Sproutred/1.png",
+          "/layers/5-Head-Accessory/Sproutred/2.png"
+        ],
+        "weight": 100
+      },
+      "Sproutyellow": {
+        "id": 195,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Sproutyellow/0.png",
+          "/layers/5-Head-Accessory/Sproutyellow/1.png",
+          "/layers/5-Head-Accessory/Sproutyellow/2.png"
+        ],
+        "weight": 100
+      },
+      "Tactical-Visor": {
+        "id": 196,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Tactical-Visor/0.png",
+          "/layers/5-Head-Accessory/Tactical-Visor/1.png",
+          "/layers/5-Head-Accessory/Tactical-Visor/2.png"
+        ],
+        "weight": 100
+      },
+      "Teal-Visor": {
+        "id": 197,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Teal-Visor/0.png",
+          "/layers/5-Head-Accessory/Teal-Visor/1.png",
+          "/layers/5-Head-Accessory/Teal-Visor/2.png"
+        ],
+        "weight": 100
+      },
+      "Thug-Life-Glasses": {
+        "id": 198,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Thug-Life-Glasses/0.png",
+          "/layers/5-Head-Accessory/Thug-Life-Glasses/1.png",
+          "/layers/5-Head-Accessory/Thug-Life-Glasses/2.png"
+        ],
+        "weight": 100
+      },
+      "Top-Hat": {
+        "id": 199,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Top-Hat/0.png",
+          "/layers/5-Head-Accessory/Top-Hat/1.png",
+          "/layers/5-Head-Accessory/Top-Hat/2.png"
+        ],
+        "weight": 100
+      },
+      "Unicorn-Horn": {
+        "id": 200,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Unicorn-Horn/0.png",
+          "/layers/5-Head-Accessory/Unicorn-Horn/1.png",
+          "/layers/5-Head-Accessory/Unicorn-Horn/2.png"
+        ],
+        "weight": 100
+      },
+      "Viking-Helmet": {
+        "id": 201,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Viking-Helmet/0.png",
+          "/layers/5-Head-Accessory/Viking-Helmet/1.png",
+          "/layers/5-Head-Accessory/Viking-Helmet/2.png"
+        ],
+        "weight": 100
+      },
+      "Void-Element": {
+        "id": 202,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Void-Element/0.png",
+          "/layers/5-Head-Accessory/Void-Element/1.png",
+          "/layers/5-Head-Accessory/Void-Element/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidessenceblue": {
+        "id": 203,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Voidessenceblue/0.png",
+          "/layers/5-Head-Accessory/Voidessenceblue/1.png",
+          "/layers/5-Head-Accessory/Voidessenceblue/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidessencegold": {
+        "id": 204,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Voidessencegold/0.png",
+          "/layers/5-Head-Accessory/Voidessencegold/1.png",
+          "/layers/5-Head-Accessory/Voidessencegold/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidessencegreen": {
+        "id": 205,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Voidessencegreen/0.png",
+          "/layers/5-Head-Accessory/Voidessencegreen/1.png",
+          "/layers/5-Head-Accessory/Voidessencegreen/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidessencepurple": {
+        "id": 206,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Voidessencepurple/0.png",
+          "/layers/5-Head-Accessory/Voidessencepurple/1.png",
+          "/layers/5-Head-Accessory/Voidessencepurple/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidessencered": {
+        "id": 207,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Voidessencered/0.png",
+          "/layers/5-Head-Accessory/Voidessencered/1.png",
+          "/layers/5-Head-Accessory/Voidessencered/2.png"
+        ],
+        "weight": 100
+      },
+      "Water-Element": {
+        "id": 208,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Water-Element/0.png",
+          "/layers/5-Head-Accessory/Water-Element/1.png",
+          "/layers/5-Head-Accessory/Water-Element/2.png"
+        ],
+        "weight": 100
+      },
+      "Wind-Element": {
+        "id": 209,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Wind-Element/0.png",
+          "/layers/5-Head-Accessory/Wind-Element/1.png",
+          "/layers/5-Head-Accessory/Wind-Element/2.png"
+        ],
+        "weight": 100
+      },
+      "Witch-Hat": {
+        "id": 210,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/Witch-Hat/0.png",
+          "/layers/5-Head-Accessory/Witch-Hat/1.png",
+          "/layers/5-Head-Accessory/Witch-Hat/2.png"
+        ],
+        "weight": 100
+      },
+      "X-ray-Glasses": {
+        "id": 211,
+        "visible": true,
+        "paths": [
+          "/layers/5-Head-Accessory/X-ray-Glasses/0.png",
+          "/layers/5-Head-Accessory/X-ray-Glasses/1.png",
+          "/layers/5-Head-Accessory/X-ray-Glasses/2.png"
+        ],
+        "weight": 100
       }
     }
   },
   {
     "name": "Neck",
     "visible": true,
-    "order": 10,
+    "order": 6,
     "attributes": {
-      "Blue Bandana": {
-        "id": 42,
+      "Amethyst-Amulet": {
+        "id": 212,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Blue Bandana#20/0.png",
-          "/layers/10-Neck/Blue Bandana#20/1.png",
-          "/layers/10-Neck/Blue Bandana#20/2.png"
+          "/layers/6-Neck-Accessory/Amethyst-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Amethyst-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Amethyst-Amulet/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Blue Bell Necklace": {
-        "id": 43,
+      "Barbed-Necklace": {
+        "id": 213,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Blue Bell Necklace#20/0.png",
-          "/layers/10-Neck/Blue Bell Necklace#20/1.png",
-          "/layers/10-Neck/Blue Bell Necklace#20/2.png"
+          "/layers/6-Neck-Accessory/Barbed-Necklace/0.png",
+          "/layers/6-Neck-Accessory/Barbed-Necklace/1.png",
+          "/layers/6-Neck-Accessory/Barbed-Necklace/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "C Chain": {
-        "id": 44,
+      "Blaze-Talisman": {
+        "id": 214,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/C Chain#10/0.png",
-          "/layers/10-Neck/C Chain#10/1.png",
-          "/layers/10-Neck/C Chain#10/2.png"
+          "/layers/6-Neck-Accessory/Blaze-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Blaze-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Blaze-Talisman/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Camo Bandana": {
-        "id": 45,
+      "Blue-Heart": {
+        "id": 215,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Camo Bandana#20/0.png",
-          "/layers/10-Neck/Camo Bandana#20/1.png",
-          "/layers/10-Neck/Camo Bandana#20/2.png"
+          "/layers/6-Neck-Accessory/Blue-Heart/0.png",
+          "/layers/6-Neck-Accessory/Blue-Heart/1.png",
+          "/layers/6-Neck-Accessory/Blue-Heart/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Circle Necklace": {
-        "id": 46,
+      "Cyborg-Gun": {
+        "id": 216,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Circle Necklace#10/0.png",
-          "/layers/10-Neck/Circle Necklace#10/1.png",
-          "/layers/10-Neck/Circle Necklace#10/2.png"
+          "/layers/6-Neck-Accessory/Cyborg-Gun/0.png",
+          "/layers/6-Neck-Accessory/Cyborg-Gun/1.png",
+          "/layers/6-Neck-Accessory/Cyborg-Gun/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Cow Necklace": {
-        "id": 47,
+      "Cyborg-Talisman": {
+        "id": 217,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Cow Necklace#10/0.png",
-          "/layers/10-Neck/Cow Necklace#10/1.png",
-          "/layers/10-Neck/Cow Necklace#10/2.png"
+          "/layers/6-Neck-Accessory/Cyborg-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Cyborg-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Cyborg-Talisman/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Diamond Necklace": {
-        "id": 48,
+      "Dark-Heart": {
+        "id": 218,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Diamond Necklace#5/0.png",
-          "/layers/10-Neck/Diamond Necklace#5/1.png",
-          "/layers/10-Neck/Diamond Necklace#5/2.png"
+          "/layers/6-Neck-Accessory/Dark-Heart/0.png",
+          "/layers/6-Neck-Accessory/Dark-Heart/1.png",
+          "/layers/6-Neck-Accessory/Dark-Heart/2.png"
         ],
-        "weight": 5
+        "weight": 100
       },
-      "Dollar Chain": {
-        "id": 49,
+      "Dark-Talisman": {
+        "id": 219,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Dollar Chain#10/0.png",
-          "/layers/10-Neck/Dollar Chain#10/1.png",
-          "/layers/10-Neck/Dollar Chain#10/2.png"
+          "/layers/6-Neck-Accessory/Dark-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Dark-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Dark-Talisman/2.png"
         ],
-        "weight": 10
+        "weight": 100
       },
-      "Green Bandana": {
-        "id": 50,
+      "Diamond-Amulet": {
+        "id": 220,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Green Bandana#20/0.png",
-          "/layers/10-Neck/Green Bandana#20/1.png",
-          "/layers/10-Neck/Green Bandana#20/2.png"
+          "/layers/6-Neck-Accessory/Diamond-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Diamond-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Diamond-Amulet/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "None": {
-        "id": 51,
+      "Earth-Talisman": {
+        "id": 221,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/None#30/0.png",
-          "/layers/10-Neck/None#30/1.png",
-          "/layers/10-Neck/None#30/2.png"
+          "/layers/6-Neck-Accessory/Earth-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Earth-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Earth-Talisman/2.png"
         ],
-        "weight": 30
+        "weight": 100
       },
-      "Red Bandana": {
-        "id": 52,
+      "Electric-Talisman": {
+        "id": 222,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Red Bandana#20/0.png",
-          "/layers/10-Neck/Red Bandana#20/1.png",
-          "/layers/10-Neck/Red Bandana#20/2.png"
+          "/layers/6-Neck-Accessory/Electric-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Electric-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Electric-Talisman/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Red Bell Necklace": {
-        "id": 53,
+      "Emerald-Amulet": {
+        "id": 223,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Red Bell Necklace#20/0.png",
-          "/layers/10-Neck/Red Bell Necklace#20/1.png",
-          "/layers/10-Neck/Red Bell Necklace#20/2.png"
+          "/layers/6-Neck-Accessory/Emerald-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Emerald-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Emerald-Amulet/2.png"
         ],
-        "weight": 20
+        "weight": 100
       },
-      "Silver Necklace": {
-        "id": 54,
+      "Fire-Talisman": {
+        "id": 224,
         "visible": true,
         "paths": [
-          "/layers/10-Neck/Silver Necklace#10/0.png",
-          "/layers/10-Neck/Silver Necklace#10/1.png",
-          "/layers/10-Neck/Silver Necklace#10/2.png"
+          "/layers/6-Neck-Accessory/Fire-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Fire-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Fire-Talisman/2.png"
         ],
-        "weight": 10
+        "weight": 100
+      },
+      "Gold-Amulet": {
+        "id": 225,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Gold-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Gold-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Gold-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Gold-Talisman": {
+        "id": 226,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Gold-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Gold-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Gold-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Golden-Egg-Necklace": {
+        "id": 227,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Golden-Egg-Necklace/0.png",
+          "/layers/6-Neck-Accessory/Golden-Egg-Necklace/1.png",
+          "/layers/6-Neck-Accessory/Golden-Egg-Necklace/2.png"
+        ],
+        "weight": 100
+      },
+      "Golden-Key": {
+        "id": 228,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Golden-Key/0.png",
+          "/layers/6-Neck-Accessory/Golden-Key/1.png",
+          "/layers/6-Neck-Accessory/Golden-Key/2.png"
+        ],
+        "weight": 100
+      },
+      "Goldnecklace": {
+        "id": 229,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Goldnecklace/0.png",
+          "/layers/6-Neck-Accessory/Goldnecklace/1.png",
+          "/layers/6-Neck-Accessory/Goldnecklace/2.png"
+        ],
+        "weight": 100
+      },
+      "Green-Heart": {
+        "id": 230,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Green-Heart/0.png",
+          "/layers/6-Neck-Accessory/Green-Heart/1.png",
+          "/layers/6-Neck-Accessory/Green-Heart/2.png"
+        ],
+        "weight": 100
+      },
+      "Heartbeat-Sensor": {
+        "id": 231,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Heartbeat-Sensor/0.png",
+          "/layers/6-Neck-Accessory/Heartbeat-Sensor/1.png",
+          "/layers/6-Neck-Accessory/Heartbeat-Sensor/2.png"
+        ],
+        "weight": 100
+      },
+      "Ice-Talisman": {
+        "id": 232,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Ice-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Ice-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Ice-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Laser-Gun": {
+        "id": 233,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Laser-Gun/0.png",
+          "/layers/6-Neck-Accessory/Laser-Gun/1.png",
+          "/layers/6-Neck-Accessory/Laser-Gun/2.png"
+        ],
+        "weight": 100
+      },
+      "Mech-Amulet": {
+        "id": 234,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Mech-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Mech-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Mech-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Mech-Talisman": {
+        "id": 235,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Mech-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Mech-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Mech-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Mossy-Talisman": {
+        "id": 236,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Mossy-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Mossy-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Mossy-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Orange-Heart": {
+        "id": 237,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Orange-Heart/0.png",
+          "/layers/6-Neck-Accessory/Orange-Heart/1.png",
+          "/layers/6-Neck-Accessory/Orange-Heart/2.png"
+        ],
+        "weight": 100
+      },
+      "Pearl-Amulet": {
+        "id": 238,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Pearl-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Pearl-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Pearl-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Pink-Talisman": {
+        "id": 239,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Pink-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Pink-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Pink-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Pink-Tourmaline-Amulet": {
+        "id": 240,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Pink-Tourmaline-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Pink-Tourmaline-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Pink-Tourmaline-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Purple-Heart": {
+        "id": 241,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Purple-Heart/0.png",
+          "/layers/6-Neck-Accessory/Purple-Heart/1.png",
+          "/layers/6-Neck-Accessory/Purple-Heart/2.png"
+        ],
+        "weight": 100
+      },
+      "Red-Heart": {
+        "id": 242,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Red-Heart/0.png",
+          "/layers/6-Neck-Accessory/Red-Heart/1.png",
+          "/layers/6-Neck-Accessory/Red-Heart/2.png"
+        ],
+        "weight": 100
+      },
+      "Red-Necklace-With-Gold-Coin": {
+        "id": 243,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Red-Necklace-With-Gold-Coin/0.png",
+          "/layers/6-Neck-Accessory/Red-Necklace-With-Gold-Coin/1.png",
+          "/layers/6-Neck-Accessory/Red-Necklace-With-Gold-Coin/2.png"
+        ],
+        "weight": 100
+      },
+      "Ruby-Amulet": {
+        "id": 244,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Ruby-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Ruby-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Ruby-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Sapphire-Amulet": {
+        "id": 245,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Sapphire-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Sapphire-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Sapphire-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Topaz-Amulet": {
+        "id": 246,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Topaz-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Topaz-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Topaz-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Void-Amulet": {
+        "id": 247,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Void-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Void-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Void-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Void-Talisman": {
+        "id": 248,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Void-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Void-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Void-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidnecklaceblue": {
+        "id": 249,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Voidnecklaceblue/0.png",
+          "/layers/6-Neck-Accessory/Voidnecklaceblue/1.png",
+          "/layers/6-Neck-Accessory/Voidnecklaceblue/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidnecklacegold": {
+        "id": 250,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Voidnecklacegold/0.png",
+          "/layers/6-Neck-Accessory/Voidnecklacegold/1.png",
+          "/layers/6-Neck-Accessory/Voidnecklacegold/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidnecklacegreen": {
+        "id": 251,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Voidnecklacegreen/0.png",
+          "/layers/6-Neck-Accessory/Voidnecklacegreen/1.png",
+          "/layers/6-Neck-Accessory/Voidnecklacegreen/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidnecklacepurple": {
+        "id": 252,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Voidnecklacepurple/0.png",
+          "/layers/6-Neck-Accessory/Voidnecklacepurple/1.png",
+          "/layers/6-Neck-Accessory/Voidnecklacepurple/2.png"
+        ],
+        "weight": 100
+      },
+      "Voidnecklacered": {
+        "id": 253,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Voidnecklacered/0.png",
+          "/layers/6-Neck-Accessory/Voidnecklacered/1.png",
+          "/layers/6-Neck-Accessory/Voidnecklacered/2.png"
+        ],
+        "weight": 100
+      },
+      "Water-Talisman": {
+        "id": 254,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Water-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Water-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Water-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Wind-Talisman": {
+        "id": 255,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Wind-Talisman/0.png",
+          "/layers/6-Neck-Accessory/Wind-Talisman/1.png",
+          "/layers/6-Neck-Accessory/Wind-Talisman/2.png"
+        ],
+        "weight": 100
+      },
+      "Yellow-Amulet": {
+        "id": 256,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Yellow-Amulet/0.png",
+          "/layers/6-Neck-Accessory/Yellow-Amulet/1.png",
+          "/layers/6-Neck-Accessory/Yellow-Amulet/2.png"
+        ],
+        "weight": 100
+      },
+      "Yellow-Heart": {
+        "id": 257,
+        "visible": true,
+        "paths": [
+          "/layers/6-Neck-Accessory/Yellow-Heart/0.png",
+          "/layers/6-Neck-Accessory/Yellow-Heart/1.png",
+          "/layers/6-Neck-Accessory/Yellow-Heart/2.png"
+        ],
+        "weight": 100
+      }
+    }
+  },
+  {
+    "name": "Wings",
+    "visible": true,
+    "order": 7,
+    "attributes": {
+      "Blue-Wings": {
+        "id": 258,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Blue-Wings/0.png",
+          "/layers/7-Wings/Blue-Wings/1.png",
+          "/layers/7-Wings/Blue-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Brown-Wings": {
+        "id": 259,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Brown-Wings/0.png",
+          "/layers/7-Wings/Brown-Wings/1.png",
+          "/layers/7-Wings/Brown-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Cyborg-Wings": {
+        "id": 260,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Cyborg-Wings/0.png",
+          "/layers/7-Wings/Cyborg-Wings/1.png",
+          "/layers/7-Wings/Cyborg-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Dark-Blue-Wings": {
+        "id": 261,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Dark-Blue-Wings/0.png",
+          "/layers/7-Wings/Dark-Blue-Wings/1.png",
+          "/layers/7-Wings/Dark-Blue-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Dark-Wings": {
+        "id": 262,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Dark-Wings/0.png",
+          "/layers/7-Wings/Dark-Wings/1.png",
+          "/layers/7-Wings/Dark-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Gold-Wings": {
+        "id": 263,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Gold-Wings/0.png",
+          "/layers/7-Wings/Gold-Wings/1.png",
+          "/layers/7-Wings/Gold-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Green-Wings": {
+        "id": 264,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Green-Wings/0.png",
+          "/layers/7-Wings/Green-Wings/1.png",
+          "/layers/7-Wings/Green-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Ice-Wings": {
+        "id": 265,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Ice-Wings/0.png",
+          "/layers/7-Wings/Ice-Wings/1.png",
+          "/layers/7-Wings/Ice-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Invisible-Wings": {
+        "id": 266,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Invisible-Wings/0.png",
+          "/layers/7-Wings/Invisible-Wings/1.png",
+          "/layers/7-Wings/Invisible-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Mech-Wings": {
+        "id": 267,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Mech-Wings/0.png",
+          "/layers/7-Wings/Mech-Wings/1.png",
+          "/layers/7-Wings/Mech-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Orange-Wings": {
+        "id": 268,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Orange-Wings/0.png",
+          "/layers/7-Wings/Orange-Wings/1.png",
+          "/layers/7-Wings/Orange-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Pink-Wings": {
+        "id": 269,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Pink-Wings/0.png",
+          "/layers/7-Wings/Pink-Wings/1.png",
+          "/layers/7-Wings/Pink-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Red-Wings": {
+        "id": 270,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Red-Wings/0.png",
+          "/layers/7-Wings/Red-Wings/1.png",
+          "/layers/7-Wings/Red-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Silver-Wings": {
+        "id": 271,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Silver-Wings/0.png",
+          "/layers/7-Wings/Silver-Wings/1.png",
+          "/layers/7-Wings/Silver-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Void-Wings": {
+        "id": 272,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Void-Wings/0.png",
+          "/layers/7-Wings/Void-Wings/1.png",
+          "/layers/7-Wings/Void-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "White-Wings": {
+        "id": 273,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/White-Wings/0.png",
+          "/layers/7-Wings/White-Wings/1.png",
+          "/layers/7-Wings/White-Wings/2.png"
+        ],
+        "weight": 100
+      },
+      "Yellow-Wings": {
+        "id": 274,
+        "visible": true,
+        "paths": [
+          "/layers/7-Wings/Yellow-Wings/0.png",
+          "/layers/7-Wings/Yellow-Wings/1.png",
+          "/layers/7-Wings/Yellow-Wings/2.png"
+        ],
+        "weight": 100
       }
     }
   }

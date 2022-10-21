@@ -1,6 +1,7 @@
 {
   "private": true,
   "scripts": {
+    "layer": "node scripts/build_layer.js",
     "setup": "node scripts/config_layers.js",
     "build": "node scripts/build_collection.js",
     "previews": "node scripts/build_previews.js",

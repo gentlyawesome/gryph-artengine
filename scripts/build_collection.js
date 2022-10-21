@@ -149,8 +149,10 @@ function generateMetadata(config, edition, level, hires, lores, attributes) {
     }
   })
   //add attributes
-  metadata.attributes.push({ trait_type: 'Crew', value: config.series })
-  metadata.attributes.push({ trait_type: 'Level', value: level })
+
+  // metadata.attributes.push({ trait_type: 'Crew', value: config.series })
+  // metadata.attributes.push({ trait_type: 'Level', value: level })
+
   for (const attribute of attributes) {
     if (!attribute.visible) {
       continue
